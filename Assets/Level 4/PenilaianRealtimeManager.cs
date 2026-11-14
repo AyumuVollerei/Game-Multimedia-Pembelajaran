@@ -72,7 +72,6 @@ public class PenilaianRealtimeManager : MonoBehaviour
         PerbaruiTampilanUI();
     }
 
-    // Dipanggil saat tombol "Lihat Hasil" diklik
     public void LihatHasilPoster()
     {
         if (audioSource != null && sfxKlik != null)
@@ -86,41 +85,39 @@ public class PenilaianRealtimeManager : MonoBehaviour
 
     private void HitungPenilaianPoster()
     {
-        bool adaLatarBelakang = false;
-        bool adaOverlay = false;
-        List<RectTransform> daftarElemen = new List<RectTransform>();
-        List<RectTransform> daftarTeks = new List<RectTransform>();
-        List<float> daftarUkuranTeks = new List<float>();
+        Image imgPoster = areaPoster.GetComponent<Image>();
+        bool adaLatarBelakang = imgPoster != null && imgPoster.sprite != null;
 
-        foreach (Transform anak in areaPoster)
+        Transform trOverlay = areaPoster.parent != null ? areaPoster.parent.Find("slot overlay") : null;
+        bool adaOverlay = trOverlay != null && trOverlay.GetComponent<Image>() != null && trOverlay.GetComponent<Image>().sprite != null;
+
+        Transform wadahSlot = areaPoster.parent != null ? areaPoster.parent : areaPoster;
+        PosterSlotTarget[] semuaSlot = wadahSlot.GetComponentsInChildren<PosterSlotTarget>();
+
+        List<PosterSlotTarget> slotTerisi = new List<PosterSlotTarget>();
+        List<PosterSlotTarget> slotCocok = new List<PosterSlotTarget>();
+        List<PosterSlotTarget> slotTeksTerisi = new List<PosterSlotTarget>();
+        PosterSlotTarget slotPertamaSalah = null;
+
+        foreach (PosterSlotTarget slot in semuaSlot)
         {
-            if (!anak.gameObject.activeInHierarchy) continue;
+            if (!slot.SudahTerisi) continue;
 
-            if (anak.name == "Poster_LatarBelakang")
+            slotTerisi.Add(slot);
+            if (slot.AdalahTeksTerisi)
+                slotTeksTerisi.Add(slot);
+
+            if (slot.ApakahElemenCocok())
             {
-                adaLatarBelakang = true;
-                continue;
+                slotCocok.Add(slot);
             }
-            if (anak.name == "Poster_Overlay")
+            else if (slotPertamaSalah == null)
             {
-                adaOverlay = true;
-                continue;
-            }
-
-            RectTransform rt = anak.GetComponent<RectTransform>();
-            if (rt == null) continue;
-
-            daftarElemen.Add(rt);
-
-            TMP_InputField input = anak.GetComponent<TMP_InputField>();
-            if (input != null)
-            {
-                daftarTeks.Add(rt);
-                daftarUkuranTeks.Add(input.pointSize);
+                slotPertamaSalah = slot;
             }
         }
 
-        if (daftarElemen.Count == 0)
+        if (slotTerisi.Count == 0)
         {
             targetKeseimbangan = 0f;
             targetKontras = adaLatarBelakang ? 20f : 0f;
@@ -130,124 +127,71 @@ public class PenilaianRealtimeManager : MonoBehaviour
             if (teksTips != null)
             {
                 teksTips.text = adaLatarBelakang
-                    ? "Tips: tambahkan judul teks dan elemen ilustrasi ke poster"
-                    : "Tips: mulai dengan memilih latar belakang poster";
+                    ? "Tips: isi slot judul, subjudul, dan ilustrasi sesuai tempatnya"
+                    : "Tips: mulai dengan memasang latar belakang poster";
             }
             return;
         }
 
-        // 1. KESEIMBANGAN
-        Vector2 totalMomen = Vector2.zero;
-        float totalBobot = 0f;
-
-        foreach (RectTransform rt in daftarElemen)
+        // 1. KESEIMBANGAN (Distribusi atas, tengah, bawah + bobot elemen yang tepat slotnya)
+        float bobotAtas = 0f, bobotTengah = 0f, bobotBawah = 0f;
+        foreach (PosterSlotTarget slot in slotTerisi)
         {
-            float luas = Mathf.Max(10f, rt.rect.width * rt.rect.height);
-            totalMomen += rt.anchoredPosition * luas;
-            totalBobot += luas;
+            float nilaiSlot = slot.ApakahElemenCocok() ? 1f : 0.4f;
+            float y = slot.GetComponent<RectTransform>().anchoredPosition.y;
+
+            if (y > 80f) bobotAtas += nilaiSlot;
+            else if (y >= -220f) bobotTengah += nilaiSlot;
+            else bobotBawah += nilaiSlot;
         }
+        float distribusiVertikal = (Mathf.Min(bobotAtas, 2f) / 2f * 35f)
+                                + (Mathf.Min(bobotTengah, 2f) / 2f * 40f)
+                                + (Mathf.Min(bobotBawah, 1f) * 25f);
+        targetKeseimbangan = Mathf.Clamp(distribusiVertikal, 10f, 100f);
 
-        Vector2 pusatMassa = totalMomen / totalBobot;
-        float batasX = Mathf.Max(1f, areaPoster.rect.width * 0.5f);
-        float batasY = Mathf.Max(1f, areaPoster.rect.height * 0.5f);
-
-        float penyimpanganX = Mathf.Clamp01(Mathf.Abs(pusatMassa.x) / batasX);
-        float penyimpanganY = Mathf.Clamp01(Mathf.Abs(pusatMassa.y) / batasY);
-
-        float skorSeimbangDasar = (1f - (penyimpanganX * 0.7f + penyimpanganY * 0.3f)) * 100f;
-        float bonusKelengkapan = Mathf.Min(15f, (daftarElemen.Count - 1) * 5f);
-        targetKeseimbangan = Mathf.Clamp(skorSeimbangDasar * 0.85f + bonusKelengkapan, 15f, 100f);
-
-        // 2. KONTRAS
+        // 2. KONTRAS (Latar belakang + kecocokan ketebalan font Judul vs Subjudul)
         float skorKontras = 0f;
         if (adaLatarBelakang) skorKontras += 35f;
         if (adaOverlay) skorKontras += 10f;
-        if (daftarTeks.Count > 0) skorKontras += 25f;
 
-        if (daftarUkuranTeks.Count >= 2)
+        int teksCocok = 0;
+        foreach (PosterSlotTarget t in slotTeksTerisi)
         {
-            float minFont = Mathf.Min(daftarUkuranTeks.ToArray());
-            float maxFont = Mathf.Max(daftarUkuranTeks.ToArray());
-            float selisihUkuran = maxFont - minFont;
-            skorKontras += Mathf.Clamp(selisihUkuran * 4f, 10f, 30f);
+            if (t.ApakahElemenCocok()) teksCocok++;
         }
-        else if (daftarElemen.Count >= 2)
-        {
-            skorKontras += 15f;
-        }
+
+        if (teksCocok >= 2) skorKontras += 55f;
+        else if (teksCocok == 1) skorKontras += 35f;
+        else if (slotTeksTerisi.Count >= 1) skorKontras += 15f;
+
         targetKontras = Mathf.Clamp(skorKontras, 10f, 100f);
 
-        // 3. KEDEKATAN
-        float skorKedekatan = 0f;
-        if (daftarTeks.Count >= 2)
+        // 3. KEDEKATAN (Kelengkapan slot & kesesuaian pasangan elemen)
+        float skorKedekatan = 15f + (slotCocok.Count * 14f);
+        if (slotTerisi.Count > slotCocok.Count)
         {
-            float jarakTerdekat = float.MaxValue;
-            for (int i = 0; i < daftarTeks.Count; i++)
-            {
-                for (int j = i + 1; j < daftarTeks.Count; j++)
-                {
-                    float d = Vector2.Distance(daftarTeks[i].anchoredPosition, daftarTeks[j].anchoredPosition);
-                    if (d < jarakTerdekat) jarakTerdekat = d;
-                }
-            }
-
-            if (jarakTerdekat < 8f)
-                skorKedekatan = 55f;
-            else if (jarakTerdekat <= 30f)
-                skorKedekatan = 100f - Mathf.Abs(jarakTerdekat - 18f) * 1.2f;
-            else
-                skorKedekatan = Mathf.Clamp(100f - (jarakTerdekat - 30f) * 1.8f, 20f, 85f);
+            // Penalti jika ada elemen yang salah masuk slot
+            int jumlahSalah = slotTerisi.Count - slotCocok.Count;
+            skorKedekatan -= jumlahSalah * 8f;
         }
-        else if (daftarElemen.Count >= 2)
-        {
-            float jarakAntarElemen = Vector2.Distance(daftarElemen[0].anchoredPosition, daftarElemen[1].anchoredPosition);
-            skorKedekatan = Mathf.Clamp(85f - Mathf.Abs(jarakAntarElemen - 25f), 30f, 85f);
-        }
-        else
-        {
-            skorKedekatan = 25f;
-        }
-        targetKedekatan = Mathf.Clamp(skorKedekatan, 0f, 100f);
+        targetKedekatan = Mathf.Clamp(skorKedekatan, 10f, 100f);
 
         SkorTotalSekarang = Mathf.RoundToInt((targetKeseimbangan + targetKontras + targetKedekatan) / 3f);
 
-        PerbaruiTipsOtomatis(adaLatarBelakang, daftarTeks.Count);
-    }
-
-    private void PerbaruiTipsOtomatis(bool adaLatar, int jumlahTeks)
-    {
-        if (teksTips == null) return;
-
-        if (!adaLatar)
+        // 4. TIPS OTOMATIS BERDASARKAN KECOCOKAN SLOT
+        if (teksTips != null)
         {
-            teksTips.text = "Tips: tambahkan latar belakang agar poster lebih menarik";
-            return;
+            if (!adaLatarBelakang)
+                teksTips.text = "Tips: tambahkan latar belakang agar poster lebih hidup";
+            else if (slotPertamaSalah != null)
+                teksTips.text = "Tips: " + slotPertamaSalah.pesanJikaKurangCocok;
+            else if (slotTeksTerisi.Count < 2)
+                teksTips.text = "Tips: lengkapi font Judul (tebal) dan Subjudul (tipis)";
+            else if (slotCocok.Count < 6)
+                teksTips.text = "Tips: lengkapi semua 6 slot dengan elemen yang sesuai";
+            else
+                teksTips.text = "Tips: semua elemen terpasang tepat pada slotnya!";
         }
-
-        if (jumlahTeks == 0)
-        {
-            teksTips.text = "Tips: tambahkan judul dan subjudul pada poster";
-            return;
-        }
-
-        if (jumlahTeks == 1)
-        {
-            teksTips.text = "Tips: tambahkan subjudul dan dekatkan dengan judul";
-            return;
-        }
-
-        if (targetKeseimbangan >= 80f && targetKontras >= 80f && targetKedekatan >= 80f)
-        {
-            teksTips.text = "Tips: komposisi poster sudah seimbang dan siap dinilai!";
-            return;
-        }
-
-        if (targetKedekatan <= targetKeseimbangan && targetKedekatan <= targetKontras)
-            teksTips.text = "Tips: dekatkan subjudul dengan judul";
-        else if (targetKeseimbangan <= targetKontras)
-            teksTips.text = "Tips: atur posisi elemen agar seimbang kiri dan kanan";
-        else
-            teksTips.text = "Tips: perbesar ukuran judul agar kontras dengan subjudul";
     }
 
     private void PerbaruiTampilanUI()
