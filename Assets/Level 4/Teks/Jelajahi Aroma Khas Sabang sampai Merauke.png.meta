@@ -1,0 +1,1146 @@
+fileFormatVersion: 2
+guid: b8197727196d28a42939bc20976a4741
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9008137563416187861
+    second: Jelajahi Aroma Khas Sabang sampai Merauke_0
+  - first:
+      213: 2025920767645988849
+    second: Jelajahi Aroma Khas Sabang sampai Merauke_1
+  - first:
+      213: 979004538408536890
+    second: Jelajahi Aroma Khas Sabang sampai Merauke_2
+  - first:
+      213: -2267594180182759665
+    second: Jelajahi Aroma Khas Sabang sampai Merauke_3
+  - first:
+      213: 8715471058897694413
+    second: Jelajahi Aroma Khas Sabang sampai Merauke_4
+  - first:
+      213: 4012688417299166680
+    second: Jelajahi Aroma Khas Sabang sampai Merauke_5
+  - first:
+      213: -7897069868792148335
+    second: Jelajahi Aroma Khas Sabang sampai Merauke_6
+  - first:
+      213: -2422750715499908928
+    second: Jelajahi Aroma Khas Sabang sampai Merauke_7
+  - first:
+      213: 7451988058433448657
+    second: Jelajahi Aroma Khas Sabang sampai Merauke_8
+  - first:
+      213: 3218687618093145144
+    second: Jelajahi Aroma Khas Sabang sampai Merauke_9
+  - first:
+      213: -4525532894460330767
+    second: Jelajahi Aroma Khas Sabang sampai Merauke_10
+  - first:
+      213: 5413474197784238861
+    second: Jelajahi Aroma Khas Sabang sampai Merauke_11
+  - first:
+      213: 216291860745800851
+    second: Jelajahi Aroma Khas Sabang sampai Merauke_12
+  - first:
+      213: 6521193062998457975
+    second: Jelajahi Aroma Khas Sabang sampai Merauke_13
+  - first:
+      213: 8783359310544456976
+    second: Jelajahi Aroma Khas Sabang sampai Merauke_14
+  - first:
+      213: 5645210813854343501
+    second: Jelajahi Aroma Khas Sabang sampai Merauke_15
+  - first:
+      213: 6017876940220756091
+    second: Jelajahi Aroma Khas Sabang sampai Merauke_16
+  - first:
+      213: -9034654707343353876
+    second: Jelajahi Aroma Khas Sabang sampai Merauke_17
+  - first:
+      213: -1558188951365478212
+    second: Jelajahi Aroma Khas Sabang sampai Merauke_18
+  - first:
+      213: 8751200108550233517
+    second: Jelajahi Aroma Khas Sabang sampai Merauke_19
+  - first:
+      213: -1253351246064825029
+    second: Jelajahi Aroma Khas Sabang sampai Merauke_20
+  - first:
+      213: 345375464672195823
+    second: Jelajahi Aroma Khas Sabang sampai Merauke_21
+  - first:
+      213: 4804745966352460435
+    second: Jelajahi Aroma Khas Sabang sampai Merauke_22
+  - first:
+      213: -1495900592354335890
+    second: Jelajahi Aroma Khas Sabang sampai Merauke_23
+  - first:
+      213: -7210460321387301094
+    second: Jelajahi Aroma Khas Sabang sampai Merauke_24
+  - first:
+      213: -4224542833067849164
+    second: Jelajahi Aroma Khas Sabang sampai Merauke_25
+  - first:
+      213: 3645888925228309263
+    second: Jelajahi Aroma Khas Sabang sampai Merauke_26
+  - first:
+      213: -1979808118504811819
+    second: Jelajahi Aroma Khas Sabang sampai Merauke_27
+  - first:
+      213: 8881729464970979051
+    second: Jelajahi Aroma Khas Sabang sampai Merauke_28
+  - first:
+      213: 2738405018439820317
+    second: Jelajahi Aroma Khas Sabang sampai Merauke_29
+  - first:
+      213: -2353617896602166041
+    second: Jelajahi Aroma Khas Sabang sampai Merauke_30
+  - first:
+      213: -6768199338224179732
+    second: Jelajahi Aroma Khas Sabang sampai Merauke_31
+  - first:
+      213: 6409117371105251280
+    second: Jelajahi Aroma Khas Sabang sampai Merauke_32
+  - first:
+      213: 1412341440798720998
+    second: Jelajahi Aroma Khas Sabang sampai Merauke_33
+  - first:
+      213: -7755784521802300729
+    second: Jelajahi Aroma Khas Sabang sampai Merauke_34
+  - first:
+      213: 3190595433959917232
+    second: Jelajahi Aroma Khas Sabang sampai Merauke_35
+  - first:
+      213: 1273455083155576854
+    second: Jelajahi Aroma Khas Sabang sampai Merauke_36
+  - first:
+      213: 3980806846656124
+    second: Jelajahi Aroma Khas Sabang sampai Merauke_37
+  - first:
+      213: 3309681181624004781
+    second: Jelajahi Aroma Khas Sabang sampai Merauke_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jelajahi Aroma Khas Sabang sampai Merauke_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 393
+        width: 76
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ca9bcfc9aacf280800000000000000
+      internalID: -9008137563416187861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jelajahi Aroma Khas Sabang sampai Merauke_1
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 392
+        width: 68
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f730a254348d1c10800000000000000
+      internalID: 2025920767645988849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jelajahi Aroma Khas Sabang sampai Merauke_2
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 546
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b0651d07f169d00800000000000000
+      internalID: 979004538408536890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jelajahi Aroma Khas Sabang sampai Merauke_3
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 393
+        width: 120
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07a67b7b13e780e0800000000000000
+      internalID: -2267594180182759665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jelajahi Aroma Khas Sabang sampai Merauke_4
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 546
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce6bc360c293f870800000000000000
+      internalID: 8715471058897694413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jelajahi Aroma Khas Sabang sampai Merauke_5
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 393
+        width: 180
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5f07bfadeefa730800000000000000
+      internalID: 4012688417299166680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jelajahi Aroma Khas Sabang sampai Merauke_6
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 393
+        width: 144
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e04387bc8f76290800000000000000
+      internalID: -7897069868792148335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jelajahi Aroma Khas Sabang sampai Merauke_7
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 393
+        width: 120
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0fd4f7f09a06ed0800000000000000
+      internalID: -2422750715499908928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jelajahi Aroma Khas Sabang sampai Merauke_8
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 392
+        width: 143
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dae06528a7ca6760800000000000000
+      internalID: 7451988058433448657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jelajahi Aroma Khas Sabang sampai Merauke_9
+      rect:
+        serializedVersion: 2
+        x: 2793
+        y: 392
+        width: 130
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83cd367d5531bac20800000000000000
+      internalID: 3218687618093145144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jelajahi Aroma Khas Sabang sampai Merauke_10
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 392
+        width: 124
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fcb85e4fc31231c0800000000000000
+      internalID: -4525532894460330767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jelajahi Aroma Khas Sabang sampai Merauke_11
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 392
+        width: 116
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b1cafd916802b40800000000000000
+      internalID: 5413474197784238861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jelajahi Aroma Khas Sabang sampai Merauke_12
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 347
+        width: 67
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ccf872d4c600300800000000000000
+      internalID: 216291860745800851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jelajahi Aroma Khas Sabang sampai Merauke_13
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 392
+        width: 116
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77eb3cf3a8eef7a50800000000000000
+      internalID: 6521193062998457975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jelajahi Aroma Khas Sabang sampai Merauke_14
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 393
+        width: 35
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d4f97b1c2c4e970800000000000000
+      internalID: 8783359310544456976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jelajahi Aroma Khas Sabang sampai Merauke_15
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 393
+        width: 86
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d416bf95351d75e40800000000000000
+      internalID: 5645210813854343501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jelajahi Aroma Khas Sabang sampai Merauke_16
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 392
+        width: 131
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b707fdb613bc38350800000000000000
+      internalID: 6017876940220756091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jelajahi Aroma Khas Sabang sampai Merauke_17
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 393
+        width: 194
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce71d7c49657e9280800000000000000
+      internalID: -9034654707343353876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jelajahi Aroma Khas Sabang sampai Merauke_18
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 392
+        width: 116
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb81ce48763306ae0800000000000000
+      internalID: -1558188951365478212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jelajahi Aroma Khas Sabang sampai Merauke_19
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 392
+        width: 116
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad1f740222827970800000000000000
+      internalID: 8751200108550233517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jelajahi Aroma Khas Sabang sampai Merauke_20
+      rect:
+        serializedVersion: 2
+        x: 2291
+        y: 392
+        width: 108
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d4387aea33b9ee0800000000000000
+      internalID: -1253351246064825029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jelajahi Aroma Khas Sabang sampai Merauke_21
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 392
+        width: 116
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4fbedb7250bc400800000000000000
+      internalID: 345375464672195823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jelajahi Aroma Khas Sabang sampai Merauke_22
+      rect:
+        serializedVersion: 2
+        x: 2941
+        y: 392
+        width: 116
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39aed60fff2eda240800000000000000
+      internalID: 4804745966352460435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jelajahi Aroma Khas Sabang sampai Merauke_23
+      rect:
+        serializedVersion: 2
+        x: 3087
+        y: 393
+        width: 120
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e636c6d365e7d3be0800000000000000
+      internalID: -1495900592354335890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jelajahi Aroma Khas Sabang sampai Merauke_24
+      rect:
+        serializedVersion: 2
+        x: 3230
+        y: 346
+        width: 130
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1739a45a8c4feb90800000000000000
+      internalID: -7210460321387301094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jelajahi Aroma Khas Sabang sampai Merauke_25
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 198
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a81980da86f55c0800000000000000
+      internalID: -4224542833067849164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jelajahi Aroma Khas Sabang sampai Merauke_26
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 45
+        width: 185
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b93c629acc89230800000000000000
+      internalID: 3645888925228309263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jelajahi Aroma Khas Sabang sampai Merauke_27
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 45
+        width: 114
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d21615710f4684e0800000000000000
+      internalID: -1979808118504811819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jelajahi Aroma Khas Sabang sampai Merauke_28
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 44
+        width: 109
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be627b614ed324b70800000000000000
+      internalID: 8881729464970979051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jelajahi Aroma Khas Sabang sampai Merauke_29
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 44
+        width: 116
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14a0470bd4c00620800000000000000
+      internalID: 2738405018439820317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jelajahi Aroma Khas Sabang sampai Merauke_30
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 45
+        width: 194
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec96083ef4465fd0800000000000000
+      internalID: -2353617896602166041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jelajahi Aroma Khas Sabang sampai Merauke_31
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 0
+        width: 130
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce52d14bf868212a0800000000000000
+      internalID: -6768199338224179732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jelajahi Aroma Khas Sabang sampai Merauke_32
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 44
+        width: 116
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df8384ca42c1f850800000000000000
+      internalID: 6409117371105251280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jelajahi Aroma Khas Sabang sampai Merauke_33
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 45
+        width: 35
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e30f58be05a99310800000000000000
+      internalID: 1412341440798720998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jelajahi Aroma Khas Sabang sampai Merauke_34
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 44
+        width: 123
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2408fb11bed5490800000000000000
+      internalID: -7755784521802300729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jelajahi Aroma Khas Sabang sampai Merauke_35
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 45
+        width: 85
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b60a2784a5474c20800000000000000
+      internalID: 3190595433959917232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jelajahi Aroma Khas Sabang sampai Merauke_36
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 44
+        width: 116
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61857eca6a83ca110800000000000000
+      internalID: 1273455083155576854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jelajahi Aroma Khas Sabang sampai Merauke_37
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 44
+        width: 118
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ea302d5842e0000800000000000000
+      internalID: 3980806846656124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jelajahi Aroma Khas Sabang sampai Merauke_38
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 44
+        width: 123
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da07e7ecf795eed20800000000000000
+      internalID: 3309681181624004781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Jelajahi Aroma Khas Sabang sampai Merauke_0: -9008137563416187861
+      Jelajahi Aroma Khas Sabang sampai Merauke_1: 2025920767645988849
+      Jelajahi Aroma Khas Sabang sampai Merauke_10: -4525532894460330767
+      Jelajahi Aroma Khas Sabang sampai Merauke_11: 5413474197784238861
+      Jelajahi Aroma Khas Sabang sampai Merauke_12: 216291860745800851
+      Jelajahi Aroma Khas Sabang sampai Merauke_13: 6521193062998457975
+      Jelajahi Aroma Khas Sabang sampai Merauke_14: 8783359310544456976
+      Jelajahi Aroma Khas Sabang sampai Merauke_15: 5645210813854343501
+      Jelajahi Aroma Khas Sabang sampai Merauke_16: 6017876940220756091
+      Jelajahi Aroma Khas Sabang sampai Merauke_17: -9034654707343353876
+      Jelajahi Aroma Khas Sabang sampai Merauke_18: -1558188951365478212
+      Jelajahi Aroma Khas Sabang sampai Merauke_19: 8751200108550233517
+      Jelajahi Aroma Khas Sabang sampai Merauke_2: 979004538408536890
+      Jelajahi Aroma Khas Sabang sampai Merauke_20: -1253351246064825029
+      Jelajahi Aroma Khas Sabang sampai Merauke_21: 345375464672195823
+      Jelajahi Aroma Khas Sabang sampai Merauke_22: 4804745966352460435
+      Jelajahi Aroma Khas Sabang sampai Merauke_23: -1495900592354335890
+      Jelajahi Aroma Khas Sabang sampai Merauke_24: -7210460321387301094
+      Jelajahi Aroma Khas Sabang sampai Merauke_25: -4224542833067849164
+      Jelajahi Aroma Khas Sabang sampai Merauke_26: 3645888925228309263
+      Jelajahi Aroma Khas Sabang sampai Merauke_27: -1979808118504811819
+      Jelajahi Aroma Khas Sabang sampai Merauke_28: 8881729464970979051
+      Jelajahi Aroma Khas Sabang sampai Merauke_29: 2738405018439820317
+      Jelajahi Aroma Khas Sabang sampai Merauke_3: -2267594180182759665
+      Jelajahi Aroma Khas Sabang sampai Merauke_30: -2353617896602166041
+      Jelajahi Aroma Khas Sabang sampai Merauke_31: -6768199338224179732
+      Jelajahi Aroma Khas Sabang sampai Merauke_32: 6409117371105251280
+      Jelajahi Aroma Khas Sabang sampai Merauke_33: 1412341440798720998
+      Jelajahi Aroma Khas Sabang sampai Merauke_34: -7755784521802300729
+      Jelajahi Aroma Khas Sabang sampai Merauke_35: 3190595433959917232
+      Jelajahi Aroma Khas Sabang sampai Merauke_36: 1273455083155576854
+      Jelajahi Aroma Khas Sabang sampai Merauke_37: 3980806846656124
+      Jelajahi Aroma Khas Sabang sampai Merauke_38: 3309681181624004781
+      Jelajahi Aroma Khas Sabang sampai Merauke_4: 8715471058897694413
+      Jelajahi Aroma Khas Sabang sampai Merauke_5: 4012688417299166680
+      Jelajahi Aroma Khas Sabang sampai Merauke_6: -7897069868792148335
+      Jelajahi Aroma Khas Sabang sampai Merauke_7: -2422750715499908928
+      Jelajahi Aroma Khas Sabang sampai Merauke_8: 7451988058433448657
+      Jelajahi Aroma Khas Sabang sampai Merauke_9: 3218687618093145144
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

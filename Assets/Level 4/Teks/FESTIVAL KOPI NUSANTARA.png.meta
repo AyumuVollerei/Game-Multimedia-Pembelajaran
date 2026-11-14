@@ -1,0 +1,678 @@
+fileFormatVersion: 2
+guid: 074c82569d7aca140ba07f11e73ac7a1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7889159184597406743
+    second: FESTIVAL KOPI NUSANTARA_0
+  - first:
+      213: -577874880186543711
+    second: FESTIVAL KOPI NUSANTARA_1
+  - first:
+      213: 4023889581677623678
+    second: FESTIVAL KOPI NUSANTARA_2
+  - first:
+      213: -6455308526567851367
+    second: FESTIVAL KOPI NUSANTARA_3
+  - first:
+      213: 367354885401638502
+    second: FESTIVAL KOPI NUSANTARA_4
+  - first:
+      213: -46974714927214690
+    second: FESTIVAL KOPI NUSANTARA_5
+  - first:
+      213: 6195746450271720981
+    second: FESTIVAL KOPI NUSANTARA_6
+  - first:
+      213: -2166084082073360373
+    second: FESTIVAL KOPI NUSANTARA_7
+  - first:
+      213: 3653500720431823077
+    second: FESTIVAL KOPI NUSANTARA_8
+  - first:
+      213: 8656588852475360523
+    second: FESTIVAL KOPI NUSANTARA_9
+  - first:
+      213: 1930855618802726703
+    second: FESTIVAL KOPI NUSANTARA_10
+  - first:
+      213: 6024822973873589147
+    second: FESTIVAL KOPI NUSANTARA_11
+  - first:
+      213: 4358485255382395225
+    second: FESTIVAL KOPI NUSANTARA_12
+  - first:
+      213: 7653444066170750028
+    second: FESTIVAL KOPI NUSANTARA_13
+  - first:
+      213: 6964447634387062151
+    second: FESTIVAL KOPI NUSANTARA_14
+  - first:
+      213: 1710575298226693340
+    second: FESTIVAL KOPI NUSANTARA_15
+  - first:
+      213: -805781792588439762
+    second: FESTIVAL KOPI NUSANTARA_16
+  - first:
+      213: -3201295096767969465
+    second: FESTIVAL KOPI NUSANTARA_17
+  - first:
+      213: 7547233931159684887
+    second: FESTIVAL KOPI NUSANTARA_18
+  - first:
+      213: -8548729992450810903
+    second: FESTIVAL KOPI NUSANTARA_19
+  - first:
+      213: 2390858909063314681
+    second: FESTIVAL KOPI NUSANTARA_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FESTIVAL KOPI NUSANTARA_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 122
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7145076da7ceb7d60800000000000000
+      internalID: 7889159184597406743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FESTIVAL KOPI NUSANTARA_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 2
+        width: 125
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a11cd1bbd9faf7f0800000000000000
+      internalID: -577874880186543711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FESTIVAL KOPI NUSANTARA_2
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 0
+        width: 144
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e793a4b414ab7d730800000000000000
+      internalID: 4023889581677623678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FESTIVAL KOPI NUSANTARA_3
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 0
+        width: 163
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a7f56c8132a66a0800000000000000
+      internalID: -6455308526567851367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FESTIVAL KOPI NUSANTARA_4
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 0
+        width: 36
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6667eda625b191500800000000000000
+      internalID: 367354885401638502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FESTIVAL KOPI NUSANTARA_5
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 0
+        width: 177
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f8653eebc195ff0800000000000000
+      internalID: -46974714927214690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FESTIVAL KOPI NUSANTARA_6
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 0
+        width: 180
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51655dee196bbf550800000000000000
+      internalID: 6195746450271720981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FESTIVAL KOPI NUSANTARA_7
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 2
+        width: 125
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08a366f00680f1e0800000000000000
+      internalID: -2166084082073360373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FESTIVAL KOPI NUSANTARA_8
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 0
+        width: 144
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8f8f35c87d3b230800000000000000
+      internalID: 3653500720431823077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FESTIVAL KOPI NUSANTARA_9
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 0
+        width: 176
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05766e52b1622870800000000000000
+      internalID: 8656588852475360523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FESTIVAL KOPI NUSANTARA_10
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 0
+        width: 143
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27bd4784f6cbca10800000000000000
+      internalID: 1930855618802726703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FESTIVAL KOPI NUSANTARA_11
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 0
+        width: 35
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b0958e2987c9350800000000000000
+      internalID: 6024822973873589147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FESTIVAL KOPI NUSANTARA_12
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 0
+        width: 155
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95968dd5f337c7c30800000000000000
+      internalID: 4358485255382395225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FESTIVAL KOPI NUSANTARA_13
+      rect:
+        serializedVersion: 2
+        x: 2116
+        y: 0
+        width: 154
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44cd6814de763a60800000000000000
+      internalID: 7653444066170750028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FESTIVAL KOPI NUSANTARA_14
+      rect:
+        serializedVersion: 2
+        x: 2299
+        y: 0
+        width: 143
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d43786930b6a060800000000000000
+      internalID: 6964447634387062151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FESTIVAL KOPI NUSANTARA_15
+      rect:
+        serializedVersion: 2
+        x: 2453
+        y: 0
+        width: 180
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd42c54bb2f2db710800000000000000
+      internalID: 1710575298226693340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FESTIVAL KOPI NUSANTARA_16
+      rect:
+        serializedVersion: 2
+        x: 2657
+        y: 0
+        width: 155
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2fd9469ab941d4f0800000000000000
+      internalID: -805781792588439762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FESTIVAL KOPI NUSANTARA_17
+      rect:
+        serializedVersion: 2
+        x: 2828
+        y: 0
+        width: 163
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74702f71217b293d0800000000000000
+      internalID: -3201295096767969465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FESTIVAL KOPI NUSANTARA_18
+      rect:
+        serializedVersion: 2
+        x: 2974
+        y: 0
+        width: 180
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7174c8ff5492db860800000000000000
+      internalID: 7547233931159684887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FESTIVAL KOPI NUSANTARA_19
+      rect:
+        serializedVersion: 2
+        x: 3178
+        y: 0
+        width: 146
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ebdd3f6d5fcc5980800000000000000
+      internalID: -8548729992450810903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FESTIVAL KOPI NUSANTARA_20
+      rect:
+        serializedVersion: 2
+        x: 3337
+        y: 0
+        width: 180
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fcfbcea2890e2120800000000000000
+      internalID: 2390858909063314681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FESTIVAL KOPI NUSANTARA_0: 7889159184597406743
+      FESTIVAL KOPI NUSANTARA_1: -577874880186543711
+      FESTIVAL KOPI NUSANTARA_10: 1930855618802726703
+      FESTIVAL KOPI NUSANTARA_11: 6024822973873589147
+      FESTIVAL KOPI NUSANTARA_12: 4358485255382395225
+      FESTIVAL KOPI NUSANTARA_13: 7653444066170750028
+      FESTIVAL KOPI NUSANTARA_14: 6964447634387062151
+      FESTIVAL KOPI NUSANTARA_15: 1710575298226693340
+      FESTIVAL KOPI NUSANTARA_16: -805781792588439762
+      FESTIVAL KOPI NUSANTARA_17: -3201295096767969465
+      FESTIVAL KOPI NUSANTARA_18: 7547233931159684887
+      FESTIVAL KOPI NUSANTARA_19: -8548729992450810903
+      FESTIVAL KOPI NUSANTARA_2: 4023889581677623678
+      FESTIVAL KOPI NUSANTARA_20: 2390858909063314681
+      FESTIVAL KOPI NUSANTARA_3: -6455308526567851367
+      FESTIVAL KOPI NUSANTARA_4: 367354885401638502
+      FESTIVAL KOPI NUSANTARA_5: -46974714927214690
+      FESTIVAL KOPI NUSANTARA_6: 6195746450271720981
+      FESTIVAL KOPI NUSANTARA_7: -2166084082073360373
+      FESTIVAL KOPI NUSANTARA_8: 3653500720431823077
+      FESTIVAL KOPI NUSANTARA_9: 8656588852475360523
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

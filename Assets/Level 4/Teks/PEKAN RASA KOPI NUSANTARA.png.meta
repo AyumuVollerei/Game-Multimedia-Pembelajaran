@@ -1,0 +1,704 @@
+fileFormatVersion: 2
+guid: 2fdf1e444b11b4e47a3a8faa3d4d0c54
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3421203242669872864
+    second: PEKAN RASA KOPI NUSANTARA_0
+  - first:
+      213: -3202133686136702722
+    second: PEKAN RASA KOPI NUSANTARA_1
+  - first:
+      213: 7365321076935261823
+    second: PEKAN RASA KOPI NUSANTARA_2
+  - first:
+      213: -3797252087377613350
+    second: PEKAN RASA KOPI NUSANTARA_3
+  - first:
+      213: 4756063038397684079
+    second: PEKAN RASA KOPI NUSANTARA_4
+  - first:
+      213: 3719767055966071469
+    second: PEKAN RASA KOPI NUSANTARA_5
+  - first:
+      213: -9141134475950836314
+    second: PEKAN RASA KOPI NUSANTARA_6
+  - first:
+      213: 7725894723807683125
+    second: PEKAN RASA KOPI NUSANTARA_7
+  - first:
+      213: 3383669644446445464
+    second: PEKAN RASA KOPI NUSANTARA_8
+  - first:
+      213: -6815084264938176011
+    second: PEKAN RASA KOPI NUSANTARA_9
+  - first:
+      213: -7527396059257459445
+    second: PEKAN RASA KOPI NUSANTARA_10
+  - first:
+      213: 399297625974358321
+    second: PEKAN RASA KOPI NUSANTARA_11
+  - first:
+      213: -2924390945493001844
+    second: PEKAN RASA KOPI NUSANTARA_12
+  - first:
+      213: 4965620021126639910
+    second: PEKAN RASA KOPI NUSANTARA_13
+  - first:
+      213: 5905465124559473681
+    second: PEKAN RASA KOPI NUSANTARA_14
+  - first:
+      213: -7166492754879501791
+    second: PEKAN RASA KOPI NUSANTARA_15
+  - first:
+      213: 2489450217056660215
+    second: PEKAN RASA KOPI NUSANTARA_16
+  - first:
+      213: 544014258266515359
+    second: PEKAN RASA KOPI NUSANTARA_17
+  - first:
+      213: -577003216630819977
+    second: PEKAN RASA KOPI NUSANTARA_18
+  - first:
+      213: 4541142980156869
+    second: PEKAN RASA KOPI NUSANTARA_19
+  - first:
+      213: 8668969038606945415
+    second: PEKAN RASA KOPI NUSANTARA_20
+  - first:
+      213: -658751954602019738
+    second: PEKAN RASA KOPI NUSANTARA_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PEKAN RASA KOPI NUSANTARA_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 142
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0296f30f6c17580d0800000000000000
+      internalID: -3421203242669872864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PEKAN RASA KOPI NUSANTARA_1
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2
+        width: 125
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8728ac06cbf83d0800000000000000
+      internalID: -3202133686136702722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PEKAN RASA KOPI NUSANTARA_2
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 0
+        width: 145
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e7c6f0f70e63660800000000000000
+      internalID: 7365321076935261823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PEKAN RASA KOPI NUSANTARA_3
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 0
+        width: 180
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add2f3168537d4bc0800000000000000
+      internalID: -3797252087377613350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PEKAN RASA KOPI NUSANTARA_4
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 0
+        width: 155
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f691f0d722ee00240800000000000000
+      internalID: 4756063038397684079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PEKAN RASA KOPI NUSANTARA_5
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 0
+        width: 146
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daaee02ed644f9330800000000000000
+      internalID: 3719767055966071469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PEKAN RASA KOPI NUSANTARA_6
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 0
+        width: 180
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5bfdc30aa242180800000000000000
+      internalID: -9141134475950836314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PEKAN RASA KOPI NUSANTARA_7
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 0
+        width: 144
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5322f985154e73b60800000000000000
+      internalID: 7725894723807683125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PEKAN RASA KOPI NUSANTARA_8
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 0
+        width: 180
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89fa08a3d9535fe20800000000000000
+      internalID: 3383669644446445464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PEKAN RASA KOPI NUSANTARA_9
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 0
+        width: 144
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1810a08f4fb61a0800000000000000
+      internalID: -6815084264938176011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PEKAN RASA KOPI NUSANTARA_10
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 0
+        width: 176
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0da84c7a21598790800000000000000
+      internalID: -7527396059257459445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PEKAN RASA KOPI NUSANTARA_11
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 0
+        width: 143
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131cbd343179a8500800000000000000
+      internalID: 399297625974358321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PEKAN RASA KOPI NUSANTARA_12
+      rect:
+        serializedVersion: 2
+        x: 2246
+        y: 0
+        width: 35
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89558ddde97a67d0800000000000000
+      internalID: -2924390945493001844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PEKAN RASA KOPI NUSANTARA_13
+      rect:
+        serializedVersion: 2
+        x: 2387
+        y: 0
+        width: 155
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62132d8a91d69e440800000000000000
+      internalID: 4965620021126639910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PEKAN RASA KOPI NUSANTARA_14
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 0
+        width: 154
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c43d60e3d64f150800000000000000
+      internalID: 5905465124559473681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PEKAN RASA KOPI NUSANTARA_15
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 0
+        width: 143
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a2ff32fc08b8c90800000000000000
+      internalID: -7166492754879501791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PEKAN RASA KOPI NUSANTARA_16
+      rect:
+        serializedVersion: 2
+        x: 2915
+        y: 0
+        width: 180
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa6ea168cd4c8220800000000000000
+      internalID: 2489450217056660215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PEKAN RASA KOPI NUSANTARA_17
+      rect:
+        serializedVersion: 2
+        x: 3119
+        y: 0
+        width: 155
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9729b8e51abc8700800000000000000
+      internalID: 544014258266515359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PEKAN RASA KOPI NUSANTARA_18
+      rect:
+        serializedVersion: 2
+        x: 3290
+        y: 0
+        width: 163
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773567ea1a21ef7f0800000000000000
+      internalID: -577003216630819977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PEKAN RASA KOPI NUSANTARA_19
+      rect:
+        serializedVersion: 2
+        x: 3436
+        y: 0
+        width: 180
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cdd43e3522201000800000000000000
+      internalID: 4541142980156869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PEKAN RASA KOPI NUSANTARA_20
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 0
+        width: 146
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78cc603196d5e4870800000000000000
+      internalID: 8668969038606945415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PEKAN RASA KOPI NUSANTARA_21
+      rect:
+        serializedVersion: 2
+        x: 3799
+        y: 0
+        width: 180
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6643ad66694abd6f0800000000000000
+      internalID: -658751954602019738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PEKAN RASA KOPI NUSANTARA_0: -3421203242669872864
+      PEKAN RASA KOPI NUSANTARA_1: -3202133686136702722
+      PEKAN RASA KOPI NUSANTARA_10: -7527396059257459445
+      PEKAN RASA KOPI NUSANTARA_11: 399297625974358321
+      PEKAN RASA KOPI NUSANTARA_12: -2924390945493001844
+      PEKAN RASA KOPI NUSANTARA_13: 4965620021126639910
+      PEKAN RASA KOPI NUSANTARA_14: 5905465124559473681
+      PEKAN RASA KOPI NUSANTARA_15: -7166492754879501791
+      PEKAN RASA KOPI NUSANTARA_16: 2489450217056660215
+      PEKAN RASA KOPI NUSANTARA_17: 544014258266515359
+      PEKAN RASA KOPI NUSANTARA_18: -577003216630819977
+      PEKAN RASA KOPI NUSANTARA_19: 4541142980156869
+      PEKAN RASA KOPI NUSANTARA_2: 7365321076935261823
+      PEKAN RASA KOPI NUSANTARA_20: 8668969038606945415
+      PEKAN RASA KOPI NUSANTARA_21: -658751954602019738
+      PEKAN RASA KOPI NUSANTARA_3: -3797252087377613350
+      PEKAN RASA KOPI NUSANTARA_4: 4756063038397684079
+      PEKAN RASA KOPI NUSANTARA_5: 3719767055966071469
+      PEKAN RASA KOPI NUSANTARA_6: -9141134475950836314
+      PEKAN RASA KOPI NUSANTARA_7: 7725894723807683125
+      PEKAN RASA KOPI NUSANTARA_8: 3383669644446445464
+      PEKAN RASA KOPI NUSANTARA_9: -6815084264938176011
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

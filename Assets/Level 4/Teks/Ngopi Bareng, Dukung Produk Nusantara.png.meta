@@ -1,0 +1,1016 @@
+fileFormatVersion: 2
+guid: 535991737a027c44da1c8f115872776c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5885802417343789376
+    second: Ngopi Bareng, Dukung Produk Nusantara_0
+  - first:
+      213: -7544056032619013227
+    second: Ngopi Bareng, Dukung Produk Nusantara_1
+  - first:
+      213: -286559872618592896
+    second: Ngopi Bareng, Dukung Produk Nusantara_2
+  - first:
+      213: 3206615113403924029
+    second: Ngopi Bareng, Dukung Produk Nusantara_3
+  - first:
+      213: 4342673441087402179
+    second: Ngopi Bareng, Dukung Produk Nusantara_4
+  - first:
+      213: -3845298526003319653
+    second: Ngopi Bareng, Dukung Produk Nusantara_5
+  - first:
+      213: 4422500648443318959
+    second: Ngopi Bareng, Dukung Produk Nusantara_6
+  - first:
+      213: -5075829114890470344
+    second: Ngopi Bareng, Dukung Produk Nusantara_7
+  - first:
+      213: -4498697700590968917
+    second: Ngopi Bareng, Dukung Produk Nusantara_8
+  - first:
+      213: 6228674066092995575
+    second: Ngopi Bareng, Dukung Produk Nusantara_9
+  - first:
+      213: 2628766757536824875
+    second: Ngopi Bareng, Dukung Produk Nusantara_10
+  - first:
+      213: 216311432075381017
+    second: Ngopi Bareng, Dukung Produk Nusantara_11
+  - first:
+      213: -8220677992125528813
+    second: Ngopi Bareng, Dukung Produk Nusantara_12
+  - first:
+      213: -9030083406292580601
+    second: Ngopi Bareng, Dukung Produk Nusantara_13
+  - first:
+      213: 1838688300971790847
+    second: Ngopi Bareng, Dukung Produk Nusantara_14
+  - first:
+      213: 7537969843591720446
+    second: Ngopi Bareng, Dukung Produk Nusantara_15
+  - first:
+      213: 7207544688848894382
+    second: Ngopi Bareng, Dukung Produk Nusantara_16
+  - first:
+      213: -4014865249709924419
+    second: Ngopi Bareng, Dukung Produk Nusantara_17
+  - first:
+      213: 5257062388180975538
+    second: Ngopi Bareng, Dukung Produk Nusantara_18
+  - first:
+      213: -5481093405587980385
+    second: Ngopi Bareng, Dukung Produk Nusantara_19
+  - first:
+      213: -8404227133006301340
+    second: Ngopi Bareng, Dukung Produk Nusantara_20
+  - first:
+      213: 5978230017497334645
+    second: Ngopi Bareng, Dukung Produk Nusantara_21
+  - first:
+      213: 605611890930398406
+    second: Ngopi Bareng, Dukung Produk Nusantara_22
+  - first:
+      213: -9014947696236012308
+    second: Ngopi Bareng, Dukung Produk Nusantara_23
+  - first:
+      213: 2311193993179280274
+    second: Ngopi Bareng, Dukung Produk Nusantara_24
+  - first:
+      213: 3774588619444755160
+    second: Ngopi Bareng, Dukung Produk Nusantara_25
+  - first:
+      213: -6436936832919877299
+    second: Ngopi Bareng, Dukung Produk Nusantara_26
+  - first:
+      213: -2356634367644071968
+    second: Ngopi Bareng, Dukung Produk Nusantara_27
+  - first:
+      213: 3184402223135472355
+    second: Ngopi Bareng, Dukung Produk Nusantara_28
+  - first:
+      213: 6278471244768016433
+    second: Ngopi Bareng, Dukung Produk Nusantara_29
+  - first:
+      213: 1083474005542828419
+    second: Ngopi Bareng, Dukung Produk Nusantara_30
+  - first:
+      213: 3318616140800838411
+    second: Ngopi Bareng, Dukung Produk Nusantara_31
+  - first:
+      213: 7245036138163283796
+    second: Ngopi Bareng, Dukung Produk Nusantara_32
+  - first:
+      213: -1558487291356679284
+    second: Ngopi Bareng, Dukung Produk Nusantara_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ngopi Bareng, Dukung Produk Nusantara_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 46
+        width: 154
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c68610c2ed615ea0800000000000000
+      internalID: -5885802417343789376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngopi Bareng, Dukung Produk Nusantara_1
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 199
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59bd91a22012e4790800000000000000
+      internalID: -7544056032619013227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngopi Bareng, Dukung Produk Nusantara_2
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 48
+        width: 146
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08500b9605fe50cf0800000000000000
+      internalID: -286559872618592896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngopi Bareng, Dukung Produk Nusantara_3
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 48
+        width: 164
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ef6ddc47f208c20800000000000000
+      internalID: 3206615113403924029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngopi Bareng, Dukung Produk Nusantara_4
+      rect:
+        serializedVersion: 2
+        x: 2111
+        y: 46
+        width: 115
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0b9877c76444c30800000000000000
+      internalID: 4342673441087402179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngopi Bareng, Dukung Produk Nusantara_5
+      rect:
+        serializedVersion: 2
+        x: 2773
+        y: 46
+        width: 143
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c2d362d51c2aac0800000000000000
+      internalID: -3845298526003319653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngopi Bareng, Dukung Produk Nusantara_6
+      rect:
+        serializedVersion: 2
+        x: 3174
+        y: 45
+        width: 130
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2166988e0ef5d30800000000000000
+      internalID: 4422500648443318959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngopi Bareng, Dukung Produk Nusantara_7
+      rect:
+        serializedVersion: 2
+        x: 3482
+        y: 46
+        width: 115
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c3e5a10580f89b0800000000000000
+      internalID: -5075829114890470344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngopi Bareng, Dukung Produk Nusantara_8
+      rect:
+        serializedVersion: 2
+        x: 3692
+        y: 46
+        width: 155
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf9864c64a6191c0800000000000000
+      internalID: -4498697700590968917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngopi Bareng, Dukung Produk Nusantara_9
+      rect:
+        serializedVersion: 2
+        x: 4425
+        y: 45
+        width: 105
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3392bef02b07650800000000000000
+      internalID: 6228674066092995575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngopi Bareng, Dukung Produk Nusantara_10
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 131
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e765c20714b7420800000000000000
+      internalID: 2628766757536824875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngopi Bareng, Dukung Produk Nusantara_11
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 45
+        width: 130
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91985b5f91e700300800000000000000
+      internalID: 216311432075381017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngopi Bareng, Dukung Produk Nusantara_12
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 0
+        width: 130
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3158c72dbe84aed80800000000000000
+      internalID: -8220677992125528813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngopi Bareng, Dukung Produk Nusantara_13
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 46
+        width: 35
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70708c34cf2bea280800000000000000
+      internalID: -9030083406292580601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngopi Bareng, Dukung Produk Nusantara_14
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 45
+        width: 116
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff117189445548910800000000000000
+      internalID: 1838688300971790847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngopi Bareng, Dukung Produk Nusantara_15
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 46
+        width: 86
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd24e682af3c9860800000000000000
+      internalID: 7537969843591720446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngopi Bareng, Dukung Produk Nusantara_16
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 45
+        width: 123
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9779115b7560460800000000000000
+      internalID: 7207544688848894382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngopi Bareng, Dukung Produk Nusantara_17
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 46
+        width: 121
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbfdaf9b3555848c0800000000000000
+      internalID: -4014865249709924419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngopi Bareng, Dukung Produk Nusantara_18
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 0
+        width: 131
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bff7919366d4f840800000000000000
+      internalID: 5257062388180975538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngopi Bareng, Dukung Produk Nusantara_19
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 16
+        width: 41
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f3133769e3fe3b0800000000000000
+      internalID: -5481093405587980385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngopi Bareng, Dukung Produk Nusantara_20
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 45
+        width: 119
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467b57533ff2e5b80800000000000000
+      internalID: -8404227133006301340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngopi Bareng, Dukung Produk Nusantara_21
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 45
+        width: 119
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5738182e680f6f250800000000000000
+      internalID: 5978230017497334645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngopi Bareng, Dukung Produk Nusantara_22
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 46
+        width: 121
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4b8ae5ec0976800800000000000000
+      internalID: 605611890930398406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngopi Bareng, Dukung Produk Nusantara_23
+      rect:
+        serializedVersion: 2
+        x: 2539
+        y: 0
+        width: 131
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec502165d874e280800000000000000
+      internalID: -9014947696236012308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngopi Bareng, Dukung Produk Nusantara_24
+      rect:
+        serializedVersion: 2
+        x: 2935
+        y: 46
+        width: 86
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293b77a01b2031020800000000000000
+      internalID: 2311193993179280274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngopi Bareng, Dukung Produk Nusantara_25
+      rect:
+        serializedVersion: 2
+        x: 3026
+        y: 45
+        width: 131
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da9c3bc958026430800000000000000
+      internalID: 3774588619444755160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngopi Bareng, Dukung Produk Nusantara_26
+      rect:
+        serializedVersion: 2
+        x: 3333
+        y: 45
+        width: 119
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49ce280e086ba6a0800000000000000
+      internalID: -6436936832919877299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngopi Bareng, Dukung Produk Nusantara_27
+      rect:
+        serializedVersion: 2
+        x: 3880
+        y: 45
+        width: 118
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e70913578d8b4fd0800000000000000
+      internalID: -2356634367644071968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngopi Bareng, Dukung Produk Nusantara_28
+      rect:
+        serializedVersion: 2
+        x: 4022
+        y: 45
+        width: 109
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea34f343f4413c20800000000000000
+      internalID: 3184402223135472355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngopi Bareng, Dukung Produk Nusantara_29
+      rect:
+        serializedVersion: 2
+        x: 4148
+        y: 45
+        width: 116
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138f6e4155c912750800000000000000
+      internalID: 6278471244768016433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngopi Bareng, Dukung Produk Nusantara_30
+      rect:
+        serializedVersion: 2
+        x: 4294
+        y: 46
+        width: 120
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389ffb71ed5490f00800000000000000
+      internalID: 1083474005542828419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngopi Bareng, Dukung Produk Nusantara_31
+      rect:
+        serializedVersion: 2
+        x: 4536
+        y: 45
+        width: 116
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0bcf4a1cc71e0e20800000000000000
+      internalID: 3318616140800838411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngopi Bareng, Dukung Produk Nusantara_32
+      rect:
+        serializedVersion: 2
+        x: 4682
+        y: 46
+        width: 86
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45727185bf98b8460800000000000000
+      internalID: 7245036138163283796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngopi Bareng, Dukung Produk Nusantara_33
+      rect:
+        serializedVersion: 2
+        x: 4775
+        y: 45
+        width: 115
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8379b3d0142f5ae0800000000000000
+      internalID: -1558487291356679284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ngopi Bareng, Dukung Produk Nusantara_0: -5885802417343789376
+      Ngopi Bareng, Dukung Produk Nusantara_1: -7544056032619013227
+      Ngopi Bareng, Dukung Produk Nusantara_10: 2628766757536824875
+      Ngopi Bareng, Dukung Produk Nusantara_11: 216311432075381017
+      Ngopi Bareng, Dukung Produk Nusantara_12: -8220677992125528813
+      Ngopi Bareng, Dukung Produk Nusantara_13: -9030083406292580601
+      Ngopi Bareng, Dukung Produk Nusantara_14: 1838688300971790847
+      Ngopi Bareng, Dukung Produk Nusantara_15: 7537969843591720446
+      Ngopi Bareng, Dukung Produk Nusantara_16: 7207544688848894382
+      Ngopi Bareng, Dukung Produk Nusantara_17: -4014865249709924419
+      Ngopi Bareng, Dukung Produk Nusantara_18: 5257062388180975538
+      Ngopi Bareng, Dukung Produk Nusantara_19: -5481093405587980385
+      Ngopi Bareng, Dukung Produk Nusantara_2: -286559872618592896
+      Ngopi Bareng, Dukung Produk Nusantara_20: -8404227133006301340
+      Ngopi Bareng, Dukung Produk Nusantara_21: 5978230017497334645
+      Ngopi Bareng, Dukung Produk Nusantara_22: 605611890930398406
+      Ngopi Bareng, Dukung Produk Nusantara_23: -9014947696236012308
+      Ngopi Bareng, Dukung Produk Nusantara_24: 2311193993179280274
+      Ngopi Bareng, Dukung Produk Nusantara_25: 3774588619444755160
+      Ngopi Bareng, Dukung Produk Nusantara_26: -6436936832919877299
+      Ngopi Bareng, Dukung Produk Nusantara_27: -2356634367644071968
+      Ngopi Bareng, Dukung Produk Nusantara_28: 3184402223135472355
+      Ngopi Bareng, Dukung Produk Nusantara_29: 6278471244768016433
+      Ngopi Bareng, Dukung Produk Nusantara_3: 3206615113403924029
+      Ngopi Bareng, Dukung Produk Nusantara_30: 1083474005542828419
+      Ngopi Bareng, Dukung Produk Nusantara_31: 3318616140800838411
+      Ngopi Bareng, Dukung Produk Nusantara_32: 7245036138163283796
+      Ngopi Bareng, Dukung Produk Nusantara_33: -1558487291356679284
+      Ngopi Bareng, Dukung Produk Nusantara_4: 4342673441087402179
+      Ngopi Bareng, Dukung Produk Nusantara_5: -3845298526003319653
+      Ngopi Bareng, Dukung Produk Nusantara_6: 4422500648443318959
+      Ngopi Bareng, Dukung Produk Nusantara_7: -5075829114890470344
+      Ngopi Bareng, Dukung Produk Nusantara_8: -4498697700590968917
+      Ngopi Bareng, Dukung Produk Nusantara_9: 6228674066092995575
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
