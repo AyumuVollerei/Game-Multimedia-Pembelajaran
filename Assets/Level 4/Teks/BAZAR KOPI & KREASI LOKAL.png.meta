@@ -1,0 +1,678 @@
+fileFormatVersion: 2
+guid: c410823b2363c0b4fba32f5e633f877d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 722801143848318775
+    second: BAZAR KOPI & KREASI LOKAL_0
+  - first:
+      213: -1077843226317012139
+    second: BAZAR KOPI & KREASI LOKAL_1
+  - first:
+      213: -4942409400672751813
+    second: BAZAR KOPI & KREASI LOKAL_2
+  - first:
+      213: -4136385831907329591
+    second: BAZAR KOPI & KREASI LOKAL_3
+  - first:
+      213: 4932990714532185795
+    second: BAZAR KOPI & KREASI LOKAL_4
+  - first:
+      213: 8018432173870190687
+    second: BAZAR KOPI & KREASI LOKAL_5
+  - first:
+      213: 5864871308304145285
+    second: BAZAR KOPI & KREASI LOKAL_6
+  - first:
+      213: -4365463972540027806
+    second: BAZAR KOPI & KREASI LOKAL_7
+  - first:
+      213: 6155727319015078942
+    second: BAZAR KOPI & KREASI LOKAL_8
+  - first:
+      213: -7735328986876589798
+    second: BAZAR KOPI & KREASI LOKAL_9
+  - first:
+      213: -7694393980279238995
+    second: BAZAR KOPI & KREASI LOKAL_10
+  - first:
+      213: -882874951984899849
+    second: BAZAR KOPI & KREASI LOKAL_11
+  - first:
+      213: 9155655681333210081
+    second: BAZAR KOPI & KREASI LOKAL_12
+  - first:
+      213: -4312475377403315486
+    second: BAZAR KOPI & KREASI LOKAL_13
+  - first:
+      213: 3841205695222607650
+    second: BAZAR KOPI & KREASI LOKAL_14
+  - first:
+      213: -6356745542933700292
+    second: BAZAR KOPI & KREASI LOKAL_15
+  - first:
+      213: 179452577501500438
+    second: BAZAR KOPI & KREASI LOKAL_16
+  - first:
+      213: 5647212964359158970
+    second: BAZAR KOPI & KREASI LOKAL_17
+  - first:
+      213: 7309991001072611722
+    second: BAZAR KOPI & KREASI LOKAL_18
+  - first:
+      213: 4138922349015188979
+    second: BAZAR KOPI & KREASI LOKAL_19
+  - first:
+      213: 1536705040742834161
+    second: BAZAR KOPI & KREASI LOKAL_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BAZAR KOPI & KREASI LOKAL_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 145
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737335e8fc7e70a00800000000000000
+      internalID: 722801143848318775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BAZAR KOPI & KREASI LOKAL_1
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 0
+        width: 180
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55340dbdb4bba01f0800000000000000
+      internalID: -1077843226317012139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BAZAR KOPI & KREASI LOKAL_2
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 2
+        width: 144
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f695a06d8096bb0800000000000000
+      internalID: -4942409400672751813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BAZAR KOPI & KREASI LOKAL_3
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 0
+        width: 180
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9743b500b9896c0800000000000000
+      internalID: -4136385831907329591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BAZAR KOPI & KREASI LOKAL_4
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 0
+        width: 146
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6cdf33be0857440800000000000000
+      internalID: 4932990714532185795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BAZAR KOPI & KREASI LOKAL_5
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 0
+        width: 144
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5098132491374f60800000000000000
+      internalID: 8018432173870190687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BAZAR KOPI & KREASI LOKAL_6
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 0
+        width: 176
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b59d8a165346150800000000000000
+      internalID: 5864871308304145285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BAZAR KOPI & KREASI LOKAL_7
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 0
+        width: 143
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c6cfc65a1ca63c0800000000000000
+      internalID: -4365463972540027806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BAZAR KOPI & KREASI LOKAL_8
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 0
+        width: 35
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1cbf08d1698d6550800000000000000
+      internalID: 6155727319015078942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BAZAR KOPI & KREASI LOKAL_9
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 0
+        width: 164
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19407c154796a490800000000000000
+      internalID: -7735328986876589798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BAZAR KOPI & KREASI LOKAL_10
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 0
+        width: 144
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae4d8b0175083590800000000000000
+      internalID: -7694393980279238995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BAZAR KOPI & KREASI LOKAL_11
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 146
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f899d9a8e56fb3f0800000000000000
+      internalID: -882874951984899849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BAZAR KOPI & KREASI LOKAL_12
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 2
+        width: 125
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb27ab555c6f0f70800000000000000
+      internalID: 9155655681333210081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BAZAR KOPI & KREASI LOKAL_13
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 0
+        width: 180
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eab1432e720724c0800000000000000
+      internalID: -4312475377403315486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BAZAR KOPI & KREASI LOKAL_14
+      rect:
+        serializedVersion: 2
+        x: 2554
+        y: 0
+        width: 144
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f63fc6a34be4530800000000000000
+      internalID: 3841205695222607650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BAZAR KOPI & KREASI LOKAL_15
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 0
+        width: 35
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31a3e1bb9d48c7a0800000000000000
+      internalID: -6356745542933700292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BAZAR KOPI & KREASI LOKAL_16
+      rect:
+        serializedVersion: 2
+        x: 2865
+        y: 2
+        width: 124
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61451002b2b8d7200800000000000000
+      internalID: 179452577501500438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BAZAR KOPI & KREASI LOKAL_17
+      rect:
+        serializedVersion: 2
+        x: 2993
+        y: 0
+        width: 176
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abcbb97554eee5e40800000000000000
+      internalID: 5647212964359158970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BAZAR KOPI & KREASI LOKAL_18
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 0
+        width: 144
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a813c32e51e427560800000000000000
+      internalID: 7309991001072611722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BAZAR KOPI & KREASI LOKAL_19
+      rect:
+        serializedVersion: 2
+        x: 3351
+        y: 0
+        width: 180
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5c9fd82f7607930800000000000000
+      internalID: 4138922349015188979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BAZAR KOPI & KREASI LOKAL_20
+      rect:
+        serializedVersion: 2
+        x: 3554
+        y: 2
+        width: 123
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff570eb719735510800000000000000
+      internalID: 1536705040742834161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BAZAR KOPI & KREASI LOKAL_0: 722801143848318775
+      BAZAR KOPI & KREASI LOKAL_1: -1077843226317012139
+      BAZAR KOPI & KREASI LOKAL_10: -7694393980279238995
+      BAZAR KOPI & KREASI LOKAL_11: -882874951984899849
+      BAZAR KOPI & KREASI LOKAL_12: 9155655681333210081
+      BAZAR KOPI & KREASI LOKAL_13: -4312475377403315486
+      BAZAR KOPI & KREASI LOKAL_14: 3841205695222607650
+      BAZAR KOPI & KREASI LOKAL_15: -6356745542933700292
+      BAZAR KOPI & KREASI LOKAL_16: 179452577501500438
+      BAZAR KOPI & KREASI LOKAL_17: 5647212964359158970
+      BAZAR KOPI & KREASI LOKAL_18: 7309991001072611722
+      BAZAR KOPI & KREASI LOKAL_19: 4138922349015188979
+      BAZAR KOPI & KREASI LOKAL_2: -4942409400672751813
+      BAZAR KOPI & KREASI LOKAL_20: 1536705040742834161
+      BAZAR KOPI & KREASI LOKAL_3: -4136385831907329591
+      BAZAR KOPI & KREASI LOKAL_4: 4932990714532185795
+      BAZAR KOPI & KREASI LOKAL_5: 8018432173870190687
+      BAZAR KOPI & KREASI LOKAL_6: 5864871308304145285
+      BAZAR KOPI & KREASI LOKAL_7: -4365463972540027806
+      BAZAR KOPI & KREASI LOKAL_8: 6155727319015078942
+      BAZAR KOPI & KREASI LOKAL_9: -7735328986876589798
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1614 @@
+fileFormatVersion: 2
+guid: 711af1fb866dd214f928d8ddfdb05050
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7102080679396362025
+    second: confetti_sebar_0
+  - first:
+      213: -1820336183116516308
+    second: confetti_sebar_1
+  - first:
+      213: -2342589038501194175
+    second: confetti_sebar_2
+  - first:
+      213: 3282650573190242412
+    second: confetti_sebar_3
+  - first:
+      213: 7078413060076561811
+    second: confetti_sebar_4
+  - first:
+      213: -6391540042314773547
+    second: confetti_sebar_5
+  - first:
+      213: -8821383820340406360
+    second: confetti_sebar_6
+  - first:
+      213: -8531067980881571354
+    second: confetti_sebar_7
+  - first:
+      213: -8039411302738008277
+    second: confetti_sebar_8
+  - first:
+      213: -2292707548874030307
+    second: confetti_sebar_9
+  - first:
+      213: -1087541387917525901
+    second: confetti_sebar_10
+  - first:
+      213: 2264916146830096204
+    second: confetti_sebar_11
+  - first:
+      213: -3934421762235411331
+    second: confetti_sebar_12
+  - first:
+      213: -7109794048615349781
+    second: confetti_sebar_13
+  - first:
+      213: -6471979140976221975
+    second: confetti_sebar_14
+  - first:
+      213: -5309763290986455187
+    second: confetti_sebar_15
+  - first:
+      213: -4072714563675568845
+    second: confetti_sebar_16
+  - first:
+      213: -8403057340462255165
+    second: confetti_sebar_17
+  - first:
+      213: -3816381777685490151
+    second: confetti_sebar_18
+  - first:
+      213: 6052616002519899658
+    second: confetti_sebar_19
+  - first:
+      213: 5604030440484224722
+    second: confetti_sebar_20
+  - first:
+      213: -3905559660826380386
+    second: confetti_sebar_21
+  - first:
+      213: 474519655369433699
+    second: confetti_sebar_22
+  - first:
+      213: -8861196339740500959
+    second: confetti_sebar_23
+  - first:
+      213: -2679325079606333434
+    second: confetti_sebar_24
+  - first:
+      213: -1881698044052632104
+    second: confetti_sebar_25
+  - first:
+      213: -8500264641600973669
+    second: confetti_sebar_26
+  - first:
+      213: 4990266194965081499
+    second: confetti_sebar_27
+  - first:
+      213: -484439346824321929
+    second: confetti_sebar_28
+  - first:
+      213: -3199699308814417588
+    second: confetti_sebar_29
+  - first:
+      213: 8129098976041518164
+    second: confetti_sebar_30
+  - first:
+      213: 574510895961558964
+    second: confetti_sebar_31
+  - first:
+      213: 7549838881925961562
+    second: confetti_sebar_32
+  - first:
+      213: -7131396123140486573
+    second: confetti_sebar_33
+  - first:
+      213: -3958030493510510034
+    second: confetti_sebar_34
+  - first:
+      213: 6538550343322933957
+    second: confetti_sebar_35
+  - first:
+      213: 432004757486332701
+    second: confetti_sebar_36
+  - first:
+      213: 3283274638377487305
+    second: confetti_sebar_37
+  - first:
+      213: 1937932307063878425
+    second: confetti_sebar_38
+  - first:
+      213: 9027731602804758095
+    second: confetti_sebar_39
+  - first:
+      213: 8020998663353304520
+    second: confetti_sebar_40
+  - first:
+      213: -518284728712010421
+    second: confetti_sebar_41
+  - first:
+      213: -2497530721687378298
+    second: confetti_sebar_42
+  - first:
+      213: 7456309115394104322
+    second: confetti_sebar_43
+  - first:
+      213: 5411009949588360008
+    second: confetti_sebar_44
+  - first:
+      213: 5713087866062684929
+    second: confetti_sebar_45
+  - first:
+      213: 595508912871941529
+    second: confetti_sebar_46
+  - first:
+      213: -1164657521157191426
+    second: confetti_sebar_47
+  - first:
+      213: -3119811606919458303
+    second: confetti_sebar_48
+  - first:
+      213: 5050387320988994873
+    second: confetti_sebar_49
+  - first:
+      213: -353560535636716094
+    second: confetti_sebar_50
+  - first:
+      213: -1473406691143056516
+    second: confetti_sebar_51
+  - first:
+      213: 7126823293117786056
+    second: confetti_sebar_52
+  - first:
+      213: 4220648371034561833
+    second: confetti_sebar_53
+  - first:
+      213: -3387020353452709337
+    second: confetti_sebar_54
+  - first:
+      213: -6133721993537164989
+    second: confetti_sebar_55
+  - first:
+      213: 7686735505581746096
+    second: confetti_sebar_56
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: confetti_sebar_0
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 1468
+        width: 70
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d83a622047507d90800000000000000
+      internalID: -7102080679396362025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confetti_sebar_1
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 1441
+        width: 115
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24bc81d2eddcb6e0800000000000000
+      internalID: -1820336183116516308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confetti_sebar_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1360
+        width: 96
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14699695ea37d7fd0800000000000000
+      internalID: -2342589038501194175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confetti_sebar_3
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1388
+        width: 86
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60acb8dd415e8d20800000000000000
+      internalID: 3282650573190242412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confetti_sebar_4
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1285
+        width: 72
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3956953dc239b3260800000000000000
+      internalID: 7078413060076561811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confetti_sebar_5
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1295
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db84220230bc47a0800000000000000
+      internalID: -6391540042314773547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confetti_sebar_6
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1316
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a75b313726249580800000000000000
+      internalID: -8821383820340406360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confetti_sebar_7
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 1208
+        width: 71
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e158d4fede8b9980800000000000000
+      internalID: -8531067980881571354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confetti_sebar_8
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1111
+        width: 76
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b276a09c3064e6090800000000000000
+      internalID: -8039411302738008277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confetti_sebar_9
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1129
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13c18fa1aaae20e0800000000000000
+      internalID: -2292707548874030307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confetti_sebar_10
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1130
+        width: 92
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37cf3a6aed648e0f0800000000000000
+      internalID: -1087541387917525901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confetti_sebar_11
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 1115
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47bad94c399e6f10800000000000000
+      internalID: 2264916146830096204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confetti_sebar_12
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1044
+        width: 98
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d745461b0402669c0800000000000000
+      internalID: -3934421762235411331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confetti_sebar_13
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1041
+        width: 76
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1881a6bffe45d90800000000000000
+      internalID: -7109794048615349781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confetti_sebar_14
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 918
+        width: 57
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0ef54e249ee26a0800000000000000
+      internalID: -6471979140976221975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confetti_sebar_15
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 940
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6fd75f4b6eef46b0800000000000000
+      internalID: -5309763290986455187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confetti_sebar_16
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 902
+        width: 108
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335ce88beafca77c0800000000000000
+      internalID: -4072714563675568845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confetti_sebar_17
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 885
+        width: 68
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c33282ced7526b80800000000000000
+      internalID: -8403057340462255165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confetti_sebar_18
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 916
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91658c54efc790bc0800000000000000
+      internalID: -3816381777685490151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confetti_sebar_19
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 946
+        width: 71
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e1b08af263ff350800000000000000
+      internalID: 6052616002519899658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confetti_sebar_20
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 894
+        width: 67
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2deb9838ef385cd40800000000000000
+      internalID: 5604030440484224722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confetti_sebar_21
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 911
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9739575e2aacc9c0800000000000000
+      internalID: -3905559660826380386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confetti_sebar_22
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 960
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3626c39cc15d59600800000000000000
+      internalID: 474519655369433699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confetti_sebar_23
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 866
+        width: 88
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c96cca0e4b60580800000000000000
+      internalID: -8861196339740500959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confetti_sebar_24
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 916
+        width: 68
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600f448290021dad0800000000000000
+      internalID: -2679325079606333434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confetti_sebar_25
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 860
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd02bd399dd2e5e0800000000000000
+      internalID: -1881698044052632104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confetti_sebar_26
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 721
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b949f84485ef80a80800000000000000
+      internalID: -8500264641600973669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confetti_sebar_27
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 789
+        width: 99
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9da88d2aacf04540800000000000000
+      internalID: 4990266194965081499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confetti_sebar_28
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 723
+        width: 100
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77460511bfce649f0800000000000000
+      internalID: -484439346824321929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confetti_sebar_29
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 719
+        width: 75
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41cd0e6e626893d0800000000000000
+      internalID: -3199699308814417588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confetti_sebar_30
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 606
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45442fae27c50d070800000000000000
+      internalID: 8129098976041518164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confetti_sebar_31
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 641
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf4161bd9219f700800000000000000
+      internalID: 574510895961558964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confetti_sebar_32
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 640
+        width: 88
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5711ac567a66c860800000000000000
+      internalID: 7549838881925961562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confetti_sebar_33
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 595
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a0d9f7201380d90800000000000000
+      internalID: -7131396123140486573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confetti_sebar_34
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 547
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a54289c304219c0800000000000000
+      internalID: -3958030493510510034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confetti_sebar_35
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 510
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca95cff4e89dba50800000000000000
+      internalID: 6538550343322933957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confetti_sebar_36
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 503
+        width: 82
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b604fb90acef500800000000000000
+      internalID: 432004757486332701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confetti_sebar_37
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 512
+        width: 73
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb0a8853e8809d20800000000000000
+      internalID: 3283274638377487305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confetti_sebar_38
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 533
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913bb496a2be4ea10800000000000000
+      internalID: 1937932307063878425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confetti_sebar_39
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 480
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46deb0df02f84d70800000000000000
+      internalID: 9027731602804758095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confetti_sebar_40
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 461
+        width: 69
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c58e0989cf405f60800000000000000
+      internalID: 8020998663353304520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confetti_sebar_41
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 346
+        width: 62
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b456c9409ceaec8f0800000000000000
+      internalID: -518284728712010421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confetti_sebar_42
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 403
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686e2368a0df65dd0800000000000000
+      internalID: -2497530721687378298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confetti_sebar_43
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 338
+        width: 63
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c929e92a12a7760800000000000000
+      internalID: 7456309115394104322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confetti_sebar_44
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 355
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b815161e4c71b40800000000000000
+      internalID: 5411009949588360008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confetti_sebar_45
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 387
+        width: 47
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103c24b1527f84f40800000000000000
+      internalID: 5713087866062684929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confetti_sebar_46
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 275
+        width: 57
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995af4c733ca34800800000000000000
+      internalID: 595508912871941529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confetti_sebar_47
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 291
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef84076b72e46dfe0800000000000000
+      internalID: -1164657521157191426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confetti_sebar_48
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 205
+        width: 61
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102dc6b7fd334b4d0800000000000000
+      internalID: -3119811606919458303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confetti_sebar_49
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 145
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d8fa5a284961640800000000000000
+      internalID: 5050387320988994873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confetti_sebar_50
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 171
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5d6cae096e71bf0800000000000000
+      internalID: -353560535636716094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confetti_sebar_51
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 202
+        width: 75
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c730cbcbb686d8be0800000000000000
+      internalID: -1473406691143056516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confetti_sebar_52
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 172
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7e34b860097e260800000000000000
+      internalID: 7126823293117786056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confetti_sebar_53
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 137
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d985dd451c29a30800000000000000
+      internalID: 4220648371034561833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confetti_sebar_54
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 19
+        width: 69
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72aee690fe2eef0d0800000000000000
+      internalID: -3387020353452709337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confetti_sebar_55
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 47
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34967304854a0eaa0800000000000000
+      internalID: -6133721993537164989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confetti_sebar_56
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 60
+        width: 75
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7259c5735ccaa60800000000000000
+      internalID: 7686735505581746096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      confetti_sebar_0: -7102080679396362025
+      confetti_sebar_1: -1820336183116516308
+      confetti_sebar_10: -1087541387917525901
+      confetti_sebar_11: 2264916146830096204
+      confetti_sebar_12: -3934421762235411331
+      confetti_sebar_13: -7109794048615349781
+      confetti_sebar_14: -6471979140976221975
+      confetti_sebar_15: -5309763290986455187
+      confetti_sebar_16: -4072714563675568845
+      confetti_sebar_17: -8403057340462255165
+      confetti_sebar_18: -3816381777685490151
+      confetti_sebar_19: 6052616002519899658
+      confetti_sebar_2: -2342589038501194175
+      confetti_sebar_20: 5604030440484224722
+      confetti_sebar_21: -3905559660826380386
+      confetti_sebar_22: 474519655369433699
+      confetti_sebar_23: -8861196339740500959
+      confetti_sebar_24: -2679325079606333434
+      confetti_sebar_25: -1881698044052632104
+      confetti_sebar_26: -8500264641600973669
+      confetti_sebar_27: 4990266194965081499
+      confetti_sebar_28: -484439346824321929
+      confetti_sebar_29: -3199699308814417588
+      confetti_sebar_3: 3282650573190242412
+      confetti_sebar_30: 8129098976041518164
+      confetti_sebar_31: 574510895961558964
+      confetti_sebar_32: 7549838881925961562
+      confetti_sebar_33: -7131396123140486573
+      confetti_sebar_34: -3958030493510510034
+      confetti_sebar_35: 6538550343322933957
+      confetti_sebar_36: 432004757486332701
+      confetti_sebar_37: 3283274638377487305
+      confetti_sebar_38: 1937932307063878425
+      confetti_sebar_39: 9027731602804758095
+      confetti_sebar_4: 7078413060076561811
+      confetti_sebar_40: 8020998663353304520
+      confetti_sebar_41: -518284728712010421
+      confetti_sebar_42: -2497530721687378298
+      confetti_sebar_43: 7456309115394104322
+      confetti_sebar_44: 5411009949588360008
+      confetti_sebar_45: 5713087866062684929
+      confetti_sebar_46: 595508912871941529
+      confetti_sebar_47: -1164657521157191426
+      confetti_sebar_48: -3119811606919458303
+      confetti_sebar_49: 5050387320988994873
+      confetti_sebar_5: -6391540042314773547
+      confetti_sebar_50: -353560535636716094
+      confetti_sebar_51: -1473406691143056516
+      confetti_sebar_52: 7126823293117786056
+      confetti_sebar_53: 4220648371034561833
+      confetti_sebar_54: -3387020353452709337
+      confetti_sebar_55: -6133721993537164989
+      confetti_sebar_56: 7686735505581746096
+      confetti_sebar_6: -8821383820340406360
+      confetti_sebar_7: -8531067980881571354
+      confetti_sebar_8: -8039411302738008277
+      confetti_sebar_9: -2292707548874030307
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
