@@ -12,11 +12,20 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: 3340e68ed85b1fa42b567592c204ec10
   - enabled: 1
+    path: Assets/Scenes/CaraBermain.unity
+    guid: c95545c212a1cf34b98bf0539f606223
+  - enabled: 1
     path: Assets/Scenes/QuestBriefing.unity
     guid: ca582b077b871124d84d9a887de89ef2
   - enabled: 1
     path: Assets/Scenes/Level1.unity
     guid: 3cd2bfbf7e628c5439cb3c45dae04ea8
+  - enabled: 1
+    path: Assets/Scenes/level 1_benar.unity
+    guid: 254a4c07062b380408acb72e1e225958
+  - enabled: 1
+    path: Assets/Scenes/level 1_salah.unity
+    guid: 7bf68e5ade9ecd6459840e716a834d4c
   m_configObjects:
     com.unity.dt.app-ui: {fileID: 11400000, guid: 1b1c20d82303e4b5781c3ef50ac1449f, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
