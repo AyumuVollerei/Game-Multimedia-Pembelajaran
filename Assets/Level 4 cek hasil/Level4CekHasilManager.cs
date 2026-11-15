@@ -24,7 +24,7 @@ public class Level4CekHasilManager : MonoBehaviour
     public Color warnaPerluDiperbaiki = new Color(0.85f, 0.35f, 0.2f); // Oranye kemerahan
 
     [Header("4. Pengaturan Skor Level 4")]
-    public int poinLolosSemua = 40;
+    public int poinMaksimalLevel4 = 40; // 40 poin jika 5 prinsip lolos semua (8 poin per prinsip)
 
     [Header("5. Efek Suara & Navigasi")]
     public AudioSource audioSource;
@@ -34,7 +34,7 @@ public class Level4CekHasilManager : MonoBehaviour
     public string namaSceneKirimKlien = "Hasil Penilaian";
 
     private bool sedangPindah = false;
-    private bool semuaPrinsipLolos = false;
+    private int jumlahPrinsipLolos = 0;
 
     void Start()
     {
@@ -62,12 +62,13 @@ public class Level4CekHasilManager : MonoBehaviour
         AturTeksStatus(teksStatusKedekatan, DataPosterLevel4.kedekatanLolos);
         AturTeksStatus(teksStatusKeseimbangan, DataPosterLevel4.keseimbanganLolos);
 
-        // 4. Cek apakah kelima prinsip lolos semua
-        semuaPrinsipLolos = DataPosterLevel4.kontrasLolos
-                         && DataPosterLevel4.pengulanganLolos
-                         && DataPosterLevel4.kesejajaranLolos
-                         && DataPosterLevel4.kedekatanLolos
-                         && DataPosterLevel4.keseimbanganLolos;
+        // 4. Hitung berapa prinsip yang lolos (0 - 5)
+        jumlahPrinsipLolos = 0;
+        if (DataPosterLevel4.kontrasLolos) jumlahPrinsipLolos++;
+        if (DataPosterLevel4.pengulanganLolos) jumlahPrinsipLolos++;
+        if (DataPosterLevel4.kesejajaranLolos) jumlahPrinsipLolos++;
+        if (DataPosterLevel4.kedekatanLolos) jumlahPrinsipLolos++;
+        if (DataPosterLevel4.keseimbanganLolos) jumlahPrinsipLolos++;
     }
 
     private void AturTeksStatus(TMP_Text teksTarget, bool isLolos)
@@ -90,7 +91,8 @@ public class Level4CekHasilManager : MonoBehaviour
     {
         if (sedangPindah) return;
 
-        int poinDidapat = semuaPrinsipLolos ? poinLolosSemua : 0;
+        // Hitung poin proporsional (8 poin per prinsip lolos, maksimal 40)
+        int poinDidapat = Mathf.RoundToInt((jumlahPrinsipLolos / 5f) * poinMaksimalLevel4);
         int skorSebelumnya = PlayerPrefs.GetInt("TotalSkor", 0);
         int skorAkhir = skorSebelumnya + poinDidapat;
 

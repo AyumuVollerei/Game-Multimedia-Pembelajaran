@@ -2,19 +2,24 @@ using System.Collections;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
+using TMPro;
 
 public class PosterActionManager : MonoBehaviour
 {
     public static PosterActionManager Instance;
 
-    [Header("Referensi Kanvas Poster")]
+    [Header("1. Header UI Level 4")]
+    public TMP_Text teksNyawaHeader;
+    public TMP_Text teksSkorHeader;
+
+    [Header("2. Referensi Kanvas Poster")]
     public RectTransform areaPoster;
 
-    [Header("Navigasi Cek Hasil")]
+    [Header("3. Navigasi Cek Hasil")]
     public string namaSceneCekHasil = "Level 4_cek hasil";
     public float jedaPindahScene = 0.15f;
 
-    [Header("SFX Klik (Opsional)")]
+    [Header("4. SFX Klik (Opsional)")]
     public AudioSource audioSource;
     public AudioClip sfxKlik;
 
@@ -23,6 +28,19 @@ public class PosterActionManager : MonoBehaviour
     void Awake()
     {
         Instance = this;
+    }
+
+    void Start()
+    {
+        // Langsung tampilkan sisa nyawa & total skor terakhir dari level sebelumnya
+        int nyawaTerkini = PlayerPrefs.GetInt("NyawaPemain", 3);
+        int skorTerkini = PlayerPrefs.GetInt("TotalSkor", 0);
+
+        if (teksNyawaHeader != null)
+            teksNyawaHeader.text = "Nyawa " + nyawaTerkini;
+
+        if (teksSkorHeader != null)
+            teksSkorHeader.text = "Score " + skorTerkini;
     }
 
     // Dibiarkan kosong agar script lain yang memanggil CatatPerubahan() tidak error

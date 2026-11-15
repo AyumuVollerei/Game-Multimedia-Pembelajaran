@@ -51,8 +51,10 @@ public class PenilaianRealtimeManager : MonoBehaviour
         SiapkanSlider(sliderKontras);
         SiapkanSlider(sliderKedekatan);
 
+        // Ambil total skor kumulatif dari Level 1 - 3 agar tidak ter-reset menjadi 0
+        int skorKumulatif = PlayerPrefs.GetInt("TotalSkor", 0);
         if (teksScoreHeader != null)
-            teksScoreHeader.text = "Score 0";
+            teksScoreHeader.text = "Score " + skorKumulatif;
     }
 
     private void SiapkanSlider(Slider sld)
@@ -78,9 +80,6 @@ public class PenilaianRealtimeManager : MonoBehaviour
             audioSource.PlayOneShot(sfxKlik);
 
         HitungPenilaianPoster();
-
-        if (teksScoreHeader != null)
-            teksScoreHeader.text = "Score " + SkorTotalSekarang;
     }
 
     private void HitungPenilaianPoster()
@@ -123,6 +122,13 @@ public class PenilaianRealtimeManager : MonoBehaviour
             targetKontras = adaLatarBelakang ? 20f : 0f;
             targetKedekatan = 0f;
             SkorTotalSekarang = Mathf.RoundToInt((targetKeseimbangan + targetKontras + targetKedekatan) / 3f);
+
+            // Reset status 5 prinsip menjadi belum lolos
+            DataPosterLevel4.kontrasLolos = false;
+            DataPosterLevel4.pengulanganLolos = false;
+            DataPosterLevel4.kesejajaranLolos = false;
+            DataPosterLevel4.kedekatanLolos = false;
+            DataPosterLevel4.keseimbanganLolos = false;
 
             if (teksTips != null)
             {
@@ -170,7 +176,6 @@ public class PenilaianRealtimeManager : MonoBehaviour
         float skorKedekatan = 15f + (slotCocok.Count * 14f);
         if (slotTerisi.Count > slotCocok.Count)
         {
-            // Penalti jika ada elemen yang salah masuk slot
             int jumlahSalah = slotTerisi.Count - slotCocok.Count;
             skorKedekatan -= jumlahSalah * 8f;
         }
@@ -178,7 +183,14 @@ public class PenilaianRealtimeManager : MonoBehaviour
 
         SkorTotalSekarang = Mathf.RoundToInt((targetKeseimbangan + targetKontras + targetKedekatan) / 3f);
 
-        // 4. TIPS OTOMATIS BERDASARKAN KECOCOKAN SLOT
+        // 4. KIRIM HASIL EVALUASI 5 PRINSIP KE SCENE CEK HASIL
+        DataPosterLevel4.kontrasLolos = targetKontras >= 70f;
+        DataPosterLevel4.keseimbanganLolos = targetKeseimbangan >= 70f;
+        DataPosterLevel4.kedekatanLolos = targetKedekatan >= 70f;
+        DataPosterLevel4.pengulanganLolos = adaLatarBelakang && slotCocok.Count >= 3;
+        DataPosterLevel4.kesejajaranLolos = slotCocok.Count >= 4 && slotPertamaSalah == null;
+
+        // 5. TIPS OTOMATIS BERDASARKAN KECOCOKAN SLOT
         if (teksTips != null)
         {
             if (!adaLatarBelakang)

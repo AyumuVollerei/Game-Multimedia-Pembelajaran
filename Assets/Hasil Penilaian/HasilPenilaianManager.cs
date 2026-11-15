@@ -19,10 +19,10 @@ public class HasilPenilaianManager : MonoBehaviour
 
     [Header("3. Badge, Ikon Badge & Skor Akhir")]
     public Image gambarIkonBadge;                // Objek "gambar badge" (lingkaran di sebelah tulisan Badge)
-    public Sprite spriteBadge0_30;               // Ikon badge nilai 0 - 30 (Desainer Magang)
-    public Sprite spriteBadge31_65;              // Ikon badge nilai 31 - 65 (Desainer Junior)
-    public Sprite spriteBadge66_80;              // Ikon badge nilai 66 - 80 (Desainer Kreatif)
-    public Sprite spriteBadge81_100;             // Ikon badge nilai 81 - 100 (Art Director)
+    public Sprite spriteBadge0_20;               // Ikon badge nilai 0 - 20 (Desainer Magang)
+    public Sprite spriteBadge21_60;              // Ikon badge nilai 21 - 60 (Desainer Junior)
+    public Sprite spriteBadge61_90;              // Ikon badge nilai 61 - 90 (Desainer Kreatif)
+    public Sprite spriteBadge91_100;             // Ikon badge nilai 91 - 100 (Art Director)
     public TMP_Text teksBadge;                   // "Badge: Art Director"
     public TMP_Text teksSkorAkhir;               // "Skor akhir 100 dari 100"
 
@@ -66,7 +66,7 @@ public class HasilPenilaianManager : MonoBehaviour
         int bintangGambar = (pilihanGambar == 0) ? 5 : 3;
         int bintangHuruf = (pilihanHuruf == 0) ? 5 : 3;
         int bintangTataLetak = Mathf.Max(1, jumlahPrinsipLolos);
-        int bintangBrief = (totalSkor >= 81) ? 5 : ((totalSkor >= 66) ? 4 : 3);
+        int bintangBrief = (totalSkor >= 91) ? 5 : ((totalSkor >= 61) ? 4 : 3);
 
         if (teksBintangGambarUtama != null) teksBintangGambarUtama.text = bintangGambar + " / 5 Bintang";
         if (teksBintangJenisHuruf != null) teksBintangJenisHuruf.text = bintangHuruf + " / 5 Bintang";
@@ -77,29 +77,29 @@ public class HasilPenilaianManager : MonoBehaviour
         string namaBadge;
         Sprite ikonTerpilih;
 
-        if (totalSkor >= 81) // 81 - 100
+        if (totalSkor >= 91) // 91 - 100
         {
             if (teksJudulHasil != null) teksJudulHasil.text = "Poster Disetujui Klien";
             namaBadge = "Art Director";
-            ikonTerpilih = spriteBadge81_100;
+            ikonTerpilih = spriteBadge91_100;
         }
-        else if (totalSkor >= 66) // 66 - 80
+        else if (totalSkor >= 61) // 61 - 90
         {
             if (teksJudulHasil != null) teksJudulHasil.text = "Poster Disetujui Klien";
             namaBadge = "Desainer Kreatif";
-            ikonTerpilih = spriteBadge66_80;
+            ikonTerpilih = spriteBadge61_90;
         }
-        else if (totalSkor >= 31) // 31 - 65
+        else if (totalSkor >= 21) // 21 - 60
         {
             if (teksJudulHasil != null) teksJudulHasil.text = "Poster Disetujui dengan Catatan";
             namaBadge = "Desainer Junior";
-            ikonTerpilih = spriteBadge31_65;
+            ikonTerpilih = spriteBadge21_60;
         }
-        else // 0 - 30
+        else // 0 - 20
         {
             if (teksJudulHasil != null) teksJudulHasil.text = "Poster Perlu Revisi";
             namaBadge = "Desainer Magang";
-            ikonTerpilih = spriteBadge0_30;
+            ikonTerpilih = spriteBadge0_20;
         }
 
         if (gambarIkonBadge != null && ikonTerpilih != null)

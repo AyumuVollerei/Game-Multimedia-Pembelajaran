@@ -1084,7 +1084,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -80.35535, y: 0, z: -519.3115, w: -37.17926}
+  m_margin: {x: -80.35535, y: 0, z: -1123.0977, w: -37.17926}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -3331,10 +3331,10 @@ MonoBehaviour:
   teksBintangTataLetak: {fileID: 1303940359}
   teksBintangKesesuaianBrief: {fileID: 684747710}
   gambarIkonBadge: {fileID: 1518467117}
-  spriteBadge0_30: {fileID: 8957324059118975939, guid: 6bd738d44cdef144192035aeac2e5725, type: 3}
-  spriteBadge31_65: {fileID: 1257449427243908752, guid: 44757b499a834cd42b83ff8e60c5021a, type: 3}
-  spriteBadge66_80: {fileID: 532282208441007744, guid: 734c1c3655a08e64aa6fc0904a296ca6, type: 3}
-  spriteBadge81_100: {fileID: 7079447807663163741, guid: 4c3e3e3a03b73df49bcf30c96c4831c6, type: 3}
+  spriteBadge0_20: {fileID: 8957324059118975939, guid: 6bd738d44cdef144192035aeac2e5725, type: 3}
+  spriteBadge21_60: {fileID: 1257449427243908752, guid: 44757b499a834cd42b83ff8e60c5021a, type: 3}
+  spriteBadge61_90: {fileID: 532282208441007744, guid: 734c1c3655a08e64aa6fc0904a296ca6, type: 3}
+  spriteBadge91_100: {fileID: 7079447807663163741, guid: 4c3e3e3a03b73df49bcf30c96c4831c6, type: 3}
   teksBadge: {fileID: 1927046313}
   teksSkorAkhir: {fileID: 1708889452}
   audioSource: {fileID: 1920661272}

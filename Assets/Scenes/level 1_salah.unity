@@ -4160,6 +4160,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Level1SalahManager
   teksSkorHeader: {fileID: 469190882}
+  teksNyawaHeader: {fileID: 1663808327}
   teksLencanaSkor: {fileID: 1379804042}
   skorSalahSatuBenar: 15
   skorSalahSemua: 5
@@ -4189,7 +4190,9 @@ MonoBehaviour:
   sfxWrong: {fileID: 8300000, guid: 1c6ad05b41f44aa4b888e0d733b36b5e, type: 3}
   sfxKlik: {fileID: 0}
   jedaLanjut: 0.2
-  namaSceneUlang: Level1
+  namaSceneBerikutnya: Level2
+  namaSceneHabisNyawa: MainMenu
+  teksTombolLanjut: {fileID: 0}
 --- !u!82 &1380736301
 AudioSource:
   m_ObjectHideFlags: 0
