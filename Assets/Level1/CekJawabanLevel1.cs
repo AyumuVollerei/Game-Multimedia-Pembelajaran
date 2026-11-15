@@ -14,13 +14,17 @@ public class CekJawabanLevel1 : MonoBehaviour
     public Image[] gambarTombolAlasan;
     public TMP_Text[] teksTombolAlasan;
     
-    public Sprite spriteAlasanNormal;   // Kapsul krem (Vector (7)_0)
-    public Sprite spriteAlasanDipilih;  // Kapsul biru tua (Vector (6)_0)
+    public Sprite spriteAlasanNormal;
+    public Sprite spriteAlasanDipilih;
 
     public Color warnaTeksAlasanNormal = new Color32(20, 30, 43, 255);
     public Color warnaTeksAlasanDipilih = Color.white;
 
-    [Header("3. Pengaturan Efek Suara (SFX)")]
+    [Header("3. Sistem Nyawa & Header UI")]
+    public TMP_Text teksNyawa;
+    public int nyawaDefault = 3;
+
+    [Header("4. Pengaturan Efek Suara (SFX)")]
     public AudioSource audioSource;
     public AudioClip sfxKlik;
 
@@ -29,14 +33,30 @@ public class CekJawabanLevel1 : MonoBehaviour
 
     private int kunciPalet = 0;
     private int kunciAlasan = 0;
+    private int nyawaSekarang;
 
     void Start()
     {
+        nyawaSekarang = PlayerPrefs.GetInt("NyawaPemain", nyawaDefault);
+        
+        if (nyawaSekarang <= 0)
+        {
+            nyawaSekarang = nyawaDefault;
+            PlayerPrefs.SetInt("NyawaPemain", nyawaSekarang);
+            PlayerPrefs.Save();
+        }
+
+        PerbaruiTeksNyawa();
         ResetTampilanPalet();
         ResetTampilanAlasan();
     }
 
-    // Fungsi pembantu untuk membunyikan SFX klik
+    private void PerbaruiTeksNyawa()
+    {
+        if (teksNyawa != null)
+            teksNyawa.text = "Nyawa " + nyawaSekarang;
+    }
+
     private void MainkanSuaraKlik()
     {
         if (audioSource != null && sfxKlik != null)
@@ -47,7 +67,7 @@ public class CekJawabanLevel1 : MonoBehaviour
 
     public void PilihPalet(int indeks)
     {
-        MainkanSuaraKlik(); // Bunyi saat kartu palet diklik
+        MainkanSuaraKlik();
         paletTerpilih = indeks;
 
         for (int i = 0; i < gambarTombolPalet.Length; i++)
@@ -69,7 +89,7 @@ public class CekJawabanLevel1 : MonoBehaviour
 
     public void PilihAlasan(int indeks)
     {
-        MainkanSuaraKlik(); // Bunyi saat tombol alasan diklik
+        MainkanSuaraKlik();
         alasanTerpilih = indeks;
         ResetTampilanAlasan();
 
@@ -113,7 +133,7 @@ public class CekJawabanLevel1 : MonoBehaviour
 
     public void TombolCekJawabanLevel1()
     {
-        MainkanSuaraKlik(); // Bunyi saat tombol Cek Jawaban diklik
+        MainkanSuaraKlik();
 
         if (paletTerpilih == -1 || alasanTerpilih == -1)
         {
@@ -123,14 +143,21 @@ public class CekJawabanLevel1 : MonoBehaviour
 
         PlayerPrefs.SetInt("PilihanPalet", paletTerpilih);
         PlayerPrefs.SetInt("PilihanAlasan", alasanTerpilih);
-        PlayerPrefs.Save();
 
         if (paletTerpilih == kunciPalet && alasanTerpilih == kunciAlasan)
         {
+            PlayerPrefs.SetInt("NyawaPemain", nyawaSekarang);
+            PlayerPrefs.Save();
+
             SceneManager.LoadScene("level 1_benar");
         }
         else
         {
+            nyawaSekarang = Mathf.Max(0, nyawaSekarang - 1);
+            PlayerPrefs.SetInt("NyawaPemain", nyawaSekarang);
+            PlayerPrefs.Save();
+
+            PerbaruiTeksNyawa();
             SceneManager.LoadScene("level 1_salah");
         }
     }

@@ -6,8 +6,9 @@ using TMPro;
 
 public class Level1SalahManager : MonoBehaviour
 {
-    [Header("1. Pengaturan Skor")]
+    [Header("1. Pengaturan Skor & Nyawa Header")]
     public TMP_Text teksSkorHeader;
+    public TMP_Text teksNyawaHeader;
     public TMP_Text teksLencanaSkor;
     public int skorSalahSatuBenar = 15;
     public int skorSalahSemua = 5;
@@ -42,29 +43,39 @@ public class Level1SalahManager : MonoBehaviour
     public float jedaLanjut = 0.2f;
 
     [Header("6. Navigasi Tombol Lanjut")]
-    public string namaSceneUlang = "Level1";
+    public string namaSceneBerikutnya = "Level2";
+    public string namaSceneHabisNyawa = "MainMenu";
+    public TMP_Text teksTombolLanjut;
 
     private int kunciPalet = 0;
     private int kunciAlasan = 0;
+    private int sisaNyawa = 3;
     private bool sedangPindah = false;
 
     void Start()
     {
-        // 1. Putar SFX jawaban salah
         if (audioSource != null && sfxWrong != null)
         {
             audioSource.PlayOneShot(sfxWrong);
         }
 
-        // 2. Ambil indeks pilihan pemain dari Level1
+        sisaNyawa = PlayerPrefs.GetInt("NyawaPemain", 3);
+        if (teksNyawaHeader != null)
+        {
+            teksNyawaHeader.text = "Nyawa " + sisaNyawa;
+        }
+
+        if (sisaNyawa <= 0 && teksTombolLanjut != null)
+        {
+            teksTombolLanjut.text = "Menu Utama";
+        }
+
         int paletDipilih = PlayerPrefs.GetInt("PilihanPalet", 1);
         int alasanDipilih = PlayerPrefs.GetInt("PilihanAlasan", 1);
 
-        // 3. Cek apakah salah satu pilihan ada yang benar
         bool adaYangBenar = (paletDipilih == kunciPalet) || (alasanDipilih == kunciAlasan);
         int poinDidapat = adaYangBenar ? skorSalahSatuBenar : skorSalahSemua;
 
-        // 4. Simpan dan tampilkan skor
         PlayerPrefs.SetInt("TotalSkor", 0);
         int skorBaru = PlayerPrefs.GetInt("TotalSkor", 0) + poinDidapat;
         PlayerPrefs.SetInt("TotalSkor", skorBaru);
@@ -76,7 +87,6 @@ public class Level1SalahManager : MonoBehaviour
         if (teksLencanaSkor != null)
             teksLencanaSkor.text = "+" + poinDidapat;
 
-        // 5. Sesuaikan tampilan kartu palet, tombol alasan, dan teks penjelasan
         TampilkanPilihanPalet(paletDipilih);
         TampilkanPilihanAlasan(alasanDipilih);
         TampilkanPenjelasanSesuaiPilihan(paletDipilih, alasanDipilih);
@@ -128,20 +138,11 @@ public class Level1SalahManager : MonoBehaviour
         if (teksPenjelasanSalah == null) return;
 
         if (paletDipilih == 1)
-        {
             teksPenjelasanSalah.text = penjelasanSalahKomplementer;
-        }
         else if (paletDipilih == 2)
-        {
             teksPenjelasanSalah.text = penjelasanSalahMonokromatik;
-        }
         else
-        {
-            if (alasanDipilih == 1)
-                teksPenjelasanSalah.text = penjelasanSalahAlasan1;
-            else
-                teksPenjelasanSalah.text = penjelasanSalahAlasan2;
-        }
+            teksPenjelasanSalah.text = (alasanDipilih == 1) ? penjelasanSalahAlasan1 : penjelasanSalahAlasan2;
     }
 
     public void TombolLanjut()
@@ -158,6 +159,13 @@ public class Level1SalahManager : MonoBehaviour
             audioSource.PlayOneShot(sfxKlik);
             yield return new WaitForSeconds(jedaLanjut);
         }
-        SceneManager.LoadScene(namaSceneUlang);
+
+        string targetLanjut = (string.IsNullOrEmpty(namaSceneBerikutnya) || namaSceneBerikutnya == "MainMenu" || namaSceneBerikutnya == "Level1")
+            ? "Level2"
+            : namaSceneBerikutnya;
+
+        string sceneTujuan = (sisaNyawa > 0) ? targetLanjut : namaSceneHabisNyawa;
+        Debug.Log("Sisa Nyawa: " + sisaNyawa + " -> Pindah ke: " + sceneTujuan);
+        SceneManager.LoadScene(sceneTujuan);
     }
 }

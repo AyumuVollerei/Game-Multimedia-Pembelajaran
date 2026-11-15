@@ -6,13 +6,14 @@ using TMPro;
 
 public class Level1BenarManager : MonoBehaviour
 {
-    [Header("Pengaturan Skor")]
+    [Header("Pengaturan Skor & Nyawa Header")]
     public TMP_Text teksSkorHeader;
+    public TMP_Text teksNyawaHeader;
     public int skorLevel1 = 30;
 
     [Header("Sorotan Jawaban Benar (Palet)")]
-    public Image[] gambarTombolPalet; // 0: Analogus, 1: Komplementer, 2: Monokromatik
-    public int indeksPaletBenar = 0;  // 0 = Analogus
+    public Image[] gambarTombolPalet;
+    public int indeksPaletBenar = 0;
     public float skalaDipilih = 1.06f;
 
     [Header("Pengaturan Efek Suara (SFX)")]
@@ -22,19 +23,17 @@ public class Level1BenarManager : MonoBehaviour
     public float jedaLanjut = 0.2f;
 
     [Header("Navigasi Tombol Lanjut")]
-    public string namaSceneBerikutnya = "MainMenu"; // Ubah ke nama scene Level 2 jika sudah ada
+    public string namaSceneBerikutnya = "Level2";
 
     private bool sedangPindah = false;
 
     void Start()
     {
-        // 1. Putar SFX jawaban benar
         if (audioSource != null && sfxCorrect != null)
         {
             audioSource.PlayOneShot(sfxCorrect);
         }
 
-        // 2. Set skor menjadi 30 dan tampilkan di Header
         PlayerPrefs.SetInt("TotalSkor", 0);
         int skorSekarang = PlayerPrefs.GetInt("TotalSkor", 0) + skorLevel1;
         PlayerPrefs.SetInt("TotalSkor", skorSekarang);
@@ -45,7 +44,12 @@ public class Level1BenarManager : MonoBehaviour
             teksSkorHeader.text = "Score " + skorSekarang;
         }
 
-        // 3. Tonjolkan kartu palet yang benar
+        int sisaNyawa = PlayerPrefs.GetInt("NyawaPemain", 3);
+        if (teksNyawaHeader != null)
+        {
+            teksNyawaHeader.text = "Nyawa " + sisaNyawa;
+        }
+
         TampilkanPaletBenar();
     }
 
@@ -82,6 +86,11 @@ public class Level1BenarManager : MonoBehaviour
             audioSource.PlayOneShot(sfxKlik);
             yield return new WaitForSeconds(jedaLanjut);
         }
-        SceneManager.LoadScene(namaSceneBerikutnya);
+
+        string tujuan = (string.IsNullOrEmpty(namaSceneBerikutnya) || namaSceneBerikutnya == "MainMenu")
+            ? "Level2"
+            : namaSceneBerikutnya;
+
+        SceneManager.LoadScene(tujuan);
     }
 }
