@@ -37,7 +37,7 @@ public class Level3SalahManager : MonoBehaviour
 
     [Header("5. Navigasi Tombol Lanjut")]
     public string namaSceneBerikutnya = "Level4";
-    public string namaSceneHabisNyawa = "MainMenu";
+    public string namaSceneHabisNyawa = "Hasil Penilaian"; // Diubah dari MainMenu ke Hasil Penilaian
     public TMP_Text teksTombolLanjut;
 
     private int sisaNyawa = 3;
@@ -61,9 +61,10 @@ public class Level3SalahManager : MonoBehaviour
             teksNyawaHeader.text = "Nyawa " + sisaNyawa;
         }
 
+        // Ubah teks tombol jika nyawa sudah 0
         if (sisaNyawa <= 0 && teksTombolLanjut != null)
         {
-            teksTombolLanjut.text = "Menu Utama";
+            teksTombolLanjut.text = "Lihat Hasil";
         }
 
         // 3. Skor tetap (+0) melanjutkan skor dari level sebelumnya
@@ -149,7 +150,12 @@ public class Level3SalahManager : MonoBehaviour
             ? "Level4"
             : namaSceneBerikutnya;
 
-        string sceneTujuan = (sisaNyawa > 0) ? targetLanjut : namaSceneHabisNyawa;
+        // Pastikan jika di Inspector masih tertulis MainMenu/kosong, tetap diarahkan ke Hasil Penilaian
+        string targetHabisNyawa = (string.IsNullOrEmpty(namaSceneHabisNyawa) || namaSceneHabisNyawa == "MainMenu")
+            ? "Hasil Penilaian"
+            : namaSceneHabisNyawa;
+
+        string sceneTujuan = (sisaNyawa > 0) ? targetLanjut : targetHabisNyawa;
         SceneManager.LoadScene(sceneTujuan);
     }
 }
